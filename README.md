@@ -1,41 +1,31 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este site é construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites estáticos.
 
-### Installation
+### Instale o Node.js
 
+Faça o download e instale
 ```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
+https://nodejs.org/en/download
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
+### Clonando o projeto
 
+Faça o clone do repositório do projeto em uma pasta local
 ```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+git clone https://github.com/IFNMG-Almenara/PharusV2_Manual.git
 ```
 
-Not using SSH:
+
+### Instale as dependências
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+npm install
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### Inicie o servidor
+
+```
+npm run start
+```
