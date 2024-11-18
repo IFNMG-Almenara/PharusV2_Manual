@@ -17,7 +17,11 @@ Inscrever-se em um evento no PHARUS é um processo simples e rápido, mas é imp
 
 Abaixo, explicamos como realizar sua inscrição de forma prática e segura, desde o acesso à página do evento até a confirmação final.
 
+<<<<<<< HEAD
 ![Realizar Inscrição em Evento](../participantes/images/RealizarInscricao.gif)
+=======
+![Realizar Inscrição em Evento](../images/RealizarInscricao.gif)
+>>>>>>> 4058b85 (manual de incrição de evento - participante)
 
 1- Selecione o Evento: escolha o evento desejado na lista disponível e clique no botão roxo com a inscrição "INSCREVER".                                                                               
 2- Finalize a Inscrição: após selecionar o evento, clique no botão "FINALIZAR INSCRIÇÃO" para concluir o processo.                                                                           
