@@ -34,6 +34,11 @@ Em seguida, será necessário preencher os seguintes campos:
 3. Carga Horária: defina a carga horária total do evento.                                                                                                           
 4. Início e Término: preencha as datas e horários de início e término do evento.                                                                                     
 5. Período de Inscrições: determine o intervalo de tempo durante o qual as inscrições estarão abertas.                                                                               
+1. Nome do Evento: insira o título completo do evento.                                                                                                                   
+2. Sigla: informe a sigla ou abreviação do evento.                                                                                                             
+3. Carga Horária: defina a carga horária total do evento.                                                                                                           
+4. Início e Término: preencha as datas e horários de início e término do evento.                                                                                     
+5. Período de Inscrições: determine o intervalo de tempo durante o qual as inscrições estarão abertas.                                                                               
 
 Além disso, o organizador deverá indicar se haverá submissão e apresentação de trabalhos. Se essa opção for aplicável ao seu evento, marque as alternativas correspondentes.
 
@@ -60,7 +65,9 @@ Para de definir as categorias de inscrição, é essencial organizar as informa�
 ![Categorias de Inscrição](../images/criar_evento4.gif)
 
 1. No campo "CATEGORIA DE INSCRIÇÃO", insira o nome da categoria do evento.
+
 2. Em "DESCRIÇÃO", forneça uma breve descrição do público-alvo para essa categoria.
+
 3. Caso exista apenas uma categoria, clique no botão roxo "PRÓXIMO" no canto inferior direito.
 
 ![Adicionar Categoria](../images/criar_evento5.gif)
@@ -77,9 +84,12 @@ Quer personalizar o visual do seu evento e concluir a configuração? Nesta últ
 
 ![HOSTSITE](../images/criar_evento6.gif)
 
-1. Carregue a imagem do cabeçalho do site no campo "IMAGEM PARA CABEÇALHO DO SITE".                                                         
-2. Em "LOGO MARCA DO EVENTO", faça o upload da logo do evento.                                                                          
-3. Escolha a cor do site clicando no botão "SELECIONE A COR DESEJADA PARA O SITE".                                                                
-4. No botão "PUBLICADO", defina se o evento será publicado ou não.                                                                             
+1. Carregue a imagem do cabeçalho do site no campo "IMAGEM PARA CABEÇALHO DO SITE".
+
+2. Em "LOGO MARCA DO EVENTO", faça o upload da logo do evento.
+
+3. Escolha a cor do site clicando no botão "SELECIONE A COR DESEJADA PARA O SITE".
+
+4. No botão "PUBLICADO", defina se o evento será publicado ou não.
 
 Para finalizar a criação do evento, clique no botão roxo no canto inferior direito onde está escrito "FINALIZAR".
