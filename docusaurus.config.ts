@@ -11,12 +11,20 @@ const config: Config = {
   url: 'https://IFNMG-Almenara.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
+<<<<<<< HEAD
   baseUrl: '/PharusV2_Manual/',
+=======
+  baseUrl: '/PharusV2-Manual/',
+>>>>>>> 6dff02b (Melhora a formatação do manual de criação de eventos e atualiza a configuração do Docusaurus para refletir o novo URL e suporte a múltiplos idiomas.)
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'IFNMG-Almenara', // Usually your GitHub org/user name.
+<<<<<<< HEAD
   projectName: 'PharusV2_Manual', // Usually your repo name.
+=======
+  projectName: 'Pharus-Manual', // Usually your repo name.
+>>>>>>> 6dff02b (Melhora a formatação do manual de criação de eventos e atualiza a configuração do Docusaurus para refletir o novo URL e suporte a múltiplos idiomas.)
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
