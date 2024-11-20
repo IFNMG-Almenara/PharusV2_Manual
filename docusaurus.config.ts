@@ -9,22 +9,15 @@ const config: Config = {
 
   // Set the production url of your site here
   url: 'https://IFNMG-Almenara.github.io',
+  url: 'https://IFNMG-Almenara.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-<<<<<<< HEAD
-<<<<<<< HEAD
-  baseUrl: '/PharusV2_Manual/',
-=======
   baseUrl: '/PharusV2-Manual/',
->>>>>>> 6dff02b (Melhora a formatação do manual de criação de eventos e atualiza a configuração do Docusaurus para refletir o novo URL e suporte a múltiplos idiomas.)
-=======
-  baseUrl: '/PharusV2_Manual/',
->>>>>>> 3311ac2 (Update docusaurus.config.ts)
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'IFNMG-Almenara', // Usually your GitHub org/user name.
-  projectName: 'PharusV2_Manual', // Usually your repo name.
+  projectName: 'Pharus-Manual', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
@@ -34,6 +27,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['en','pt-BR'],
     defaultLocale: 'pt-BR',
     locales: ['en','pt-BR'],
   },
@@ -46,6 +41,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
