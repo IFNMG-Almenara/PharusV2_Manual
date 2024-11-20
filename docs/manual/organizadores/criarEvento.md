@@ -27,13 +27,19 @@ Após clicar em "Adicionar Evento", será exibido um menu com opções para sele
 
 ![Tipo de Evento](../images/criar_evento2.gif)
 
+:::tip[Importante!]
+
+>**Palestra**: Atividade de apresentação única, com um ou mais palestrantes.  
+>**Encontro**: Geralmente são compostos por muitas apresentações, palestras e debates. As atividades são apresentadas sequencia dentro de um mesmo espaço.  
+>**Congresso**: Geralmente duram vários dias e têm a vantagem sobre as reuniões, pois permitem que várias atividades aconteçam em paralelo. Eles também oferecem fluxos de trabalho com revisão/edição de resumos e artigos.  
+:::
 Em seguida, será necessário preencher os seguintes campos:
 
-1. Nome do Evento: insira o título completo do evento.                                                                                                                   
-2. Sigla: informe a sigla ou abreviação do evento.                                                                                                             
-3. Carga Horária: defina a carga horária total do evento.                                                                                                           
-4. Início e Término: preencha as datas e horários de início e término do evento.                                                                                     
-5. Período de Inscrições: determine o intervalo de tempo durante o qual as inscrições estarão abertas.                                                                               
+**1. Nome do Evento**: insira o título completo do evento.                                                                                                                   
+**2. Sigla:** informe a sigla ou abreviação do evento.                                                                                                             
+**3. Carga Horária:** defina a carga horária total do evento.                                                                                                           
+**4. Início e Término:** preencha as datas e horários de início e término do evento.                                                                                     
+**5. Período de Inscrições:** determine o intervalo de tempo durante o qual as inscrições estarão abertas.                                                                               
 
 Além disso, o organizador deverá indicar se haverá submissão e apresentação de trabalhos. Se essa opção for aplicável ao seu evento, marque as alternativas correspondentes.
 
@@ -46,9 +52,9 @@ Essas informações são importantes para garantir que os participantes saibam o
 
 ![Outras Informações](../images/criar_evento3.gif)
 
-1- Local do Evento: Escreva onde o evento será realizado e, selecione a CIDADE e o ESTADO.                                                                                    
-2- Organizador do Evento: Preencha o e-mail e o telefone do organizador para facilitar o contato.                                                                     
-3- Descrição do Evento: Adicione uma descrição detalhada sobre o evento, destacando seu objetivo e atividades principais.
+**1. Local do Evento:** Escreva onde o evento será realizado e, selecione a CIDADE e o ESTADO.                                                                                    
+**2. Organizador do Evento:** Preencha o e-mail e o telefone do o.ganizador para facilitar o contato.                                                                     
+**3. Descrição do Evento:** Adicione uma descrição detalhada sobre o evento, destacando seu objetivo e atividades principais.
 
 Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "PRÓXIMO", para avançar para a próxima etapa do cadastro.
 
@@ -67,9 +73,9 @@ Para de definir as categorias de inscrição, é essencial organizar as informa�
 
 ![Adicionar Categoria](../images/criar_evento5.gif)
 
-4- Adicionar outra categoria: Para incluir outra categoria, clique no botão roxo "ADIÇÃO" abaixo dos campos "CATEGORIA DE INSCRIÇÃO" e "DESCRIÇÃO".
+4. Adicionar outra categoria: Para incluir outra categoria, clique no botão roxo "ADIÇÃO" abaixo dos campos "CATEGORIA DE INSCRIÇÃO" e "DESCRIÇÃO".
 
-5- Preencher nova categoria: Insira as informações da nova categoria nos campos disponibilizados.
+5. Preencher nova categoria: Insira as informações da nova categoria nos campos disponibilizados.
 
 Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "PRÓXIMO", para avançar para a próxima etapa do cadastro.
 
