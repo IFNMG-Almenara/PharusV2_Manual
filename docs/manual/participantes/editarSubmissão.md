@@ -11,14 +11,14 @@ A partir do menu de configurações do evento, você pode acessar a programaçã
 
 ![Editar uma submissão](../images/editarSubmis1.gif)
 
-1- Acesse o evento onde a atividade está cadastrada.                                    
-2- No menu à esquerda, clique em "Configurações".                                          
-3- Na página de configurações, selecione a aba "Programação".                                             
-4- Na nova tela, clique em "Atividade".                                                                       
+1. Acesse o evento onde a atividade está cadastrada.                                    
+2. No menu à esquerda, clique em "Configurações".                                          
+3. Na página de configurações, selecione a aba "Programação".                                             
+4. Na nova tela, clique em "Atividade".                                                                       
 Abaixo, você verá a lista de atividades submetidas.                                                  
 
 ![Editar uma submissão](../images/editarSubmis2.gif)
 
-1- Clique no ícone de lápis ao lado da atividade que deseja editar.                                                             
-2- Agora, faça as alterações desejadas.                                                                                              
-3- Clique em "Salvar" para confirmar as mudanças.
+5. Clique no ícone de lápis ao lado da atividade que deseja editar.                                                             
+6. Agora, faça as alterações desejadas.                                                                                              
+7. Clique em "Salvar" para confirmar as mudanças.
