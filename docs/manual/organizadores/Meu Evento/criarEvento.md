@@ -14,6 +14,7 @@ Com esses pontos em mente, você estará pronto para criar um evento no **PHARUS
 ## Cadastrando um evento
 
 Antes de cadastrar um evento, é essencial seguir um processo organizado para garantir que todas as informações sejam inseridas corretamente. No cadastro, você poderá definir detalhes importantes, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
+Antes de cadastrar um evento, é essencial seguir um processo organizado para garantir que todas as informações sejam inseridas corretamente. No cadastro, você poderá definir detalhes importantes, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
 
 ![Criar Evento](../images/criar_evento.gif)
 
