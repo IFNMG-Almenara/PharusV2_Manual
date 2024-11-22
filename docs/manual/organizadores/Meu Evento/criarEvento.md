@@ -3,17 +3,17 @@
 
 O **PHARUS** é uma plataforma de gestão de eventos que simplifica a criação, organização e avaliação de eventos. Para criar um evento no PHARUS, considere os seguintes pontos:
 
-Primeiro, defina o objetivo do evento e identifique o público-alvo. O PHARUS suporta diversos tipos de eventos, como congressos, palestras e encontros.
+Primeiro, defina o objetivo do evento e identifique o público-alvo. O **PHARUS** suporta diversos tipos de eventos, como congressos, palestras e encontros.
 
 Em seguida, determine a data, o local, a carga horária e as atividades do evento. Um planejamento cuidadoso é essencial para o sucesso do evento, abrangendo todas as etapas da organização.
 
-Por fim, divulgue as informações do evento de forma clara e direta. Isso facilita a inscrição dos participantes. O PHARUS oferece várias opções de divulgação, incluindo a criação de páginas personalizadas e o envio de e-mails.
+Por fim, divulgue as informações do evento de forma clara e direta. Isso facilita a inscrição dos participantes. O **PHARUS** oferece várias opções de divulgação, incluindo a criação de páginas personalizadas e o envio de e-mails.
 
-Com esses pontos em mente, você estará pronto para criar um evento no PHARUS com sucesso.
+Com esses pontos em mente, você estará pronto para criar um evento no **PHARUS** com sucesso.
 
 ## Cadastrando um evento
 
-Antes de cadastrar um evento, é importante estar atento ao processo e aos passos necessários para garantir que todas as informações sejam inseridas corretamente. Ao cadastrar um evento, você poderá definir os detalhes principais, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
+Antes de cadastrar um evento, é essencial seguir um processo organizado para garantir que todas as informações sejam inseridas corretamente. No cadastro, você poderá definir detalhes importantes, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
 
 ![Criar Evento](../images/criar_evento.gif)
 
@@ -22,8 +22,9 @@ Antes de cadastrar um evento, é importante estar atento ao processo e aos passo
 2. Em seguida, selecione o botão azul no canto superior direito, onde está escrito "Adicionar Evento".
 
 ### Preenchendo Tipo de Evento
+Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: PALESTRA, ENCONTRO e CONGRESSO. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
 
-Após clicar em "Adicionar Evento", será exibido um menu com opções para selecionar o tipo de evento que você deseja cadastrar. Existem três tipos disponíveis: PALESTRA, ENCONTRO e CONGRESSO. O organizador deve escolher apenas uma dessas opções para o evento.
+Escolha o tipo de evento que melhor se adequa às suas necessidades para continuar com o cadastro.
 
 ![Tipo de Evento](../images/criar_evento2.gif)
 
@@ -46,9 +47,7 @@ Além disso, o organizador deverá indicar se haverá submissão e apresentaçã
 Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "PRÓXIMO", para avançar para a próxima etapa do cadastro.
 
 ### Outras Informações
-
-Nesta etapa do cadastro, você irá inserir informações essenciais sobre o evento, como o local de realização e os dados do organizador.                                                   
-Essas informações são importantes para garantir que os participantes saibam onde o evento ocorrerá e quem será o responsável pelo evento. A seguir, orientamos sobre como preencher corretamente cada campo dessa seção.
+Nesta etapa do cadastro, você deverá inserir informações essenciais sobre o evento, como o local de realização e os dados do organizador. Essas informações são cruciais para garantir que os participantes saibam onde o evento ocorrerá e quem será o responsável pela organização. A seguir, orientamos como preencher corretamente cada campo desta seção.
 
 ![Outras Informações](../images/criar_evento3.gif)
 
@@ -60,7 +59,7 @@ Após preencher todos os campos, clique no botão roxo no canto inferior direito
 
 ### Categorias de inscrição
 
-Para de definir as categorias de inscrição, é essencial organizar as informações que darão clareza e credibilidade ao evento. Esse processo permite que você identifique os diferentes públicos e ofereça descrições adequadas, facilitando que cada participante encontre a opção mais adequada para sua inscrição. Siga os passos abaixo para preencher e organizar as categorias de inscrição no sistema.
+Para definir as categorias de inscrição, é essencial organizar as informações de forma clara e precisa. Esse processo permite identificar os diferentes públicos e oferecer descrições adequadas, facilitando que cada participante encontre a opção mais adequada para sua inscrição. Siga os passos abaixo para preencher e organizar as categorias de inscrição no sistema.
 
 
 ![Categorias de Inscrição](../images/criar_evento4.gif)
