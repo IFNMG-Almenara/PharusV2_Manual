@@ -12,10 +12,14 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
 <<<<<<< HEAD
+<<<<<<< HEAD
   baseUrl: '/PharusV2_Manual/',
 =======
   baseUrl: '/PharusV2-Manual/',
 >>>>>>> 6dff02b (Melhora a formatação do manual de criação de eventos e atualiza a configuração do Docusaurus para refletir o novo URL e suporte a múltiplos idiomas.)
+=======
+  baseUrl: '/PharusV2_Manual/',
+>>>>>>> 3311ac2 (Update docusaurus.config.ts)
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
