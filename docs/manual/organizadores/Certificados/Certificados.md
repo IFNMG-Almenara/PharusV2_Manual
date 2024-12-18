@@ -1,4 +1,4 @@
-# Participantes em eventos
+# Certificados
 
 ## Quando emitir um certificado de participação no evento?
 
