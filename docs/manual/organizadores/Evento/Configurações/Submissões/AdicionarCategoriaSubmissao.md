@@ -1,4 +1,4 @@
-#  Submissões: Adicionar categorias de submissão
+#  Adicionar categorias de submissão
 
 No PHARUS, você pode adicionar categorias de submissão para organizar os tipos de trabalhos enviados no evento.                   
 Isso deixa tudo mais claro para os participantes na hora de submeter os trabalhos e facilita o trabalho dos avaliadores na hora de revisar.
@@ -7,7 +7,7 @@ Isso deixa tudo mais claro para os participantes na hora de submeter os trabalho
 
 Siga o passo a passo abaixo para adicionar categorias de submissão no sistema:  
 
-![Adicionar Categoria](./images/addcategosubmis.gif)
+![Adicionar Categoria](./../../../images/addcategosubmis.gif)
 
 1. Acesse "Meus Eventos" no menu superior esquerdo.  
 2. Selecione o evento em que deseja adicionar uma categoria de submissão.  

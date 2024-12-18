@@ -11,7 +11,7 @@ Essa funcionalidade permite alterar detalhes como nome e descrições de cada ca
 O processo é intuitivo e rápido, proporcionando ao organizador maior controle sobre a configuração do evento.                                                                        
 Confira, nos próximos passos, como realizar essa edição com sucesso.
 
-![](./images/criar_evento4.gif)
+![](../../../images/criar_evento4.gif)
 
 1. No menu "MEUS EVENTOS", o organizador deve localizar o evento onde deseja editar a categoria e clicar sobre ele.                                                         
 2. Na página do evento, clique em "Configurações" no menu lateral esquerdo e, em seguida, selecione a opção "EVENTO".                                                                

@@ -1,4 +1,4 @@
-# Avaliação: Adicionar baremas para avaliação
+# Adicionar baremas para avaliação
 
 No contexto da gestão de eventos, baremas são ferramentas utilizadas para definir critérios e categorias de avaliação que serão aplicados aos trabalhos submetidos. 
 Eles ajudam a padronizar a análise, garantindo que todos os avaliadores utilizem os mesmos parâmetros para avaliar os trabalhos de forma objetiva e consistente.
@@ -8,7 +8,7 @@ No Sistema Pharus, é possível criar baremas personalizados para atender às ne
 
  Nesta seção, você aprenderá como configurar e adicionar baremas ao seu evento, permitindo que os avaliadores utilizem essas métricas durante o processo de avaliação.
 
-![Adicionar Categoria](./images/cadasBaremas.gif)
+![Adicionar Categoria](../../../images/cadasBaremas.gif)
 
 1. No canto superior esquerdo, clique em "MEUS EVENTOS" e logo depois em "ESTOU ORGANIZANDO".  
 2. Escolha o evento no qual deseja adicionar um barema e clique sobre ele.  
