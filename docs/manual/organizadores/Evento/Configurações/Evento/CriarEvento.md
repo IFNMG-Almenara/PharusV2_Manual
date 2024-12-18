@@ -15,7 +15,7 @@ Com esses pontos em mente, você estará pronto para criar um evento no **PHARUS
 
 Antes de cadastrar um evento, é essencial seguir um processo organizado para garantir que todas as informações sejam inseridas corretamente. No cadastro, você poderá definir detalhes importantes, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
 
-![Criar Evento](../images/criar_evento.gif)
+![Criar Evento](../../../images/criar_evento.gif)
 
 1. Na tela inicial, clique no botão "**ESTOU ORGANIZANDO**".  
 
@@ -34,7 +34,7 @@ Após clicar em "Adicionar Evento", um menu será exibido com as opções de tip
 
 Escolha o tipo de evento que melhor se adequa às suas necessidades para continuar com o cadastro.
 
-![Tipo de Evento](../images/criar_evento2.gif)
+![Tipo de Evento](../../../images/criar_evento2.gif)
 
 :::tip[Importante!]
 
@@ -57,7 +57,7 @@ Após preencher todos os campos, clique no botão roxo no canto inferior direito
 ### Outras Informações
 Nesta etapa do cadastro, você deverá inserir informações essenciais sobre o evento, como o local de realização e os dados do organizador. Essas informações são cruciais para garantir que os participantes saibam onde o evento ocorrerá e quem será o responsável pela organização. A seguir, orientamos como preencher corretamente cada campo desta seção.
 
-![Outras Informações](../images/criar_evento3.gif)
+![Outras Informações](../../../images/criar_evento3.gif)
 
 **1. Local do Evento:** Escreva onde o evento será realizado e, selecione a **CIDADE** e o **ESTADO**.                                                                                    
 **2. Organizador do Evento:** Preencha o e-mail e o telefone do organizador para facilitar o contato.                                                                     
@@ -70,7 +70,7 @@ Após preencher todos os campos, clique no botão roxo no canto inferior direito
 Para definir as categorias de inscrição, é essencial organizar as informações de forma clara e precisa. Esse processo permite identificar os diferentes públicos e oferecer descrições adequadas, facilitando que cada participante encontre a opção mais adequada para sua inscrição. Siga os passos abaixo para preencher e organizar as categorias de inscrição no sistema.
 
 
-![Categorias de Inscrição](../images/criar_evento4.gif)
+![Categorias de Inscrição](../../../images/criar_evento4.gif)
 
 1. No campo "**CATEGORIA DE INSCRIÇÃO**", insira o nome da categoria do evento.
 
@@ -78,7 +78,7 @@ Para definir as categorias de inscrição, é essencial organizar as informaçõ
 
 3. Caso exista apenas uma categoria, clique no botão roxo "**PRÓXIMO**" no canto inferior direito.
 
-![Adicionar Categoria](../images/criar_evento5.gif)
+![Adicionar Categoria](../../../images/criar_evento5.gif)
 
 4. Adicionar outra categoria: Para incluir outra categoria, clique no botão roxo "**ADIÇÃO**" abaixo dos campos "**CATEGORIA DE INSCRIÇÃO**" e "**DESCRIÇÃO**".
 
@@ -91,7 +91,7 @@ Após preencher todos os campos, clique no botão roxo no canto inferior direito
 
 Quer personalizar o visual do seu evento e concluir a configuração? Nesta última etapa, você poderá adicionar a identidade visual do site e definir se o evento será publicado. Siga os passos abaixo para finalizar.
 
-![HOSTSITE](../images/criar_evento6.gif)
+![HOSTSITE](../../../images/criar_evento6.gif)
 
 1. Carregue a imagem do cabeçalho do site no campo "**IMAGEM PARA CABEÇALHO DO SITE**".
 
