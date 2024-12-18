@@ -22,11 +22,25 @@ Antes de cadastrar um evento, é essencial seguir um processo organizado para ga
 2. Em seguida, selecione o botão azul no canto superior direito, onde está escrito "**Adicionar Evento**".
 
 ### Preenchendo Tipo de Evento
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:docs/manual/organizadores/Evento/Configurações/Evento/CriarEvento.md
+<<<<<<< HEAD
+>>>>>>> 4c45843 (Adicionar documentação sobre como criar um evento no PHARUS)
 <<<<<<<< HEAD:docs/manual/organizadores/Evento/CriarEvento.md
 Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: **PALESTRA**, **ENCONTRO** e **CONGRESSO**. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
 ========
 Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: PALESTRA, ENCONTRO e CONGRESSO. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
 >>>>>>>> 4b62987 (Remove arquivos de configuração e documentação obsoletos do Docusaurus e atualiza dependências para a versão 3.6.2):docs/manual/organizadores/Meu Evento/criarEvento.md
+<<<<<<< HEAD
+=======
+=======
+Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: PALESTRA, ENCONTRO e CONGRESSO. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
+>>>>>>> e394ebd (Remove arquivos de categoria e tutoriais obsoletos, atualiza caminhos de imagem e versões de dependências no Docusaurus)
+========
+Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: **PALESTRA**, **ENCONTRO** e **CONGRESSO**. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
+>>>>>>>> 4c45843 (Adicionar documentação sobre como criar um evento no PHARUS):docs/manual/organizadores/Evento/CriarEvento.md
+>>>>>>> 4c45843 (Adicionar documentação sobre como criar um evento no PHARUS)
 
 Escolha o tipo de evento que melhor se adequa às suas necessidades para continuar com o cadastro.
 
