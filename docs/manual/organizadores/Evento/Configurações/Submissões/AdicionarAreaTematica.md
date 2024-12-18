@@ -1,4 +1,4 @@
-# Submissões: Adicionar áreas temáticas para submissão de trabalhos
+# Adicionar áreas temáticas para submissão de trabalhos
 
 O PHARUS permite que você, organizador, adicione áreas temáticas de forma simples e organizada, facilitando a categorização e o processo de submissão de trabalhos no evento.
 
@@ -7,7 +7,7 @@ O PHARUS permite que você, organizador, adicione áreas temáticas de forma sim
 Siga o passo a passo abaixo para criar áreas temáticas no sistema:
 
 
-![Adicionar Area Tenatica](./images/addareatematica.gif)
+![Adicionar Area Tenatica](./../../../images/addareatematica.gif)
 
 1. Acesse "Meus Eventos" no canto superior.  
 2. Escolha o evento no qual deseja adicionar uma área temática e clique sobre ele.  
