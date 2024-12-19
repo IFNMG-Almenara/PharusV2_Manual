@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Criar Evento
 
 ## Como criar um evento?
