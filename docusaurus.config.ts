@@ -67,9 +67,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Manual Pharus 2.0',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -80,46 +80,54 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              html: `
+              <div class="div-pharus">
+                <image src="https://i.ibb.co/njkpMc3/footer-white-pharus-icon.png" style="width: 30px; height: 30px;"/>
+                <h2 class="ms-2 me-3">Pharus</h2>
+              </div>
+                <strong>Gestão de Enventos</strong>
+              <div>
+              </p>
+            </div>
+              `,
             },
+            
           ],
         },
         {
-          title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Outros Eventos",
+              to: "https://eventos.ifnmg.edu.br/#eventos",
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: "Validação de Certificados",
+              to: "https://eventos.ifnmg.edu.br/#certificados"
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
+              label: "Área do participante",
+              to: "https://eventos.ifnmg.edu.br/area-do-participante/meus-eventos"
+            }
+          ]
         },
         {
-          title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              html:`
+              <p class="desenvolvido">Desenvolvido pelo IFNMG - Campus Almenara</p>
+              `
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
+              label: "pharus@ifnmg.edu.br",
+              to: "mailto:pharus@ifnmg.edu.br"
+            }
+          ]
+          
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} IFMNG - Campus Almenara - Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
