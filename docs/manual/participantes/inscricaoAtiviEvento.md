@@ -6,7 +6,7 @@
 
 Para se inscrever em uma atividade no sistema Pharus, siga estes passos simples:
 
-![](../images/inscriAtividade.gif)
+![](images/inscriAtividade.gif)
 
 1. Acesse a aba "Meus Eventos" após fazer login no sistema. Localize o evento no qual deseja realizar a inscrição e clique sobre ele.
 2. Quando a página do evento carregar, procure no menu lateral esquerdo a opção "Atividades" e clique nela.
