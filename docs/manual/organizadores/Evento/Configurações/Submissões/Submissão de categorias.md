@@ -17,4 +17,4 @@ No Pharus, a configuração de categorias permite criar novas categorias de subm
 
 - Descrição/Informações: inclua as informações relevantes sobre a categoria, se aplicável.
 
-3- Após preencher todos os campos, clique em Salvar para concluir o cadastro da nova categoria.
+Após preencher todos os campos, clique em ***Salvar*** para concluir o cadastro da nova categoria.
