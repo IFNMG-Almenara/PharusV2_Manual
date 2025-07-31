@@ -6,7 +6,7 @@ No contexto da gestão de eventos, baremas são ferramentas essenciais para defi
 
 Nesta seção, você aprenderá a configurar e adicionar baremas ao seu evento, permitindo que os avaliadores utilizem essas métricas durante o processo de avaliação.
 
-![Adicionar Categoria](../../../images/cadasBaremas.gif)
+![Adicionar Categoria](../../../../images/cadasBaremas.gif)
 
 1. No canto superior esquerdo, clique em **MEUS EVENTOS** e depois em **ESTOU ORGANIZANDO**.
 2. Escolha o evento no qual deseja adicionar um barema e clique sobre ele.

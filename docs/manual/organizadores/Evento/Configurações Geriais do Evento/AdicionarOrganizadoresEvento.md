@@ -12,7 +12,7 @@ Adicionar um organizador é um processo simples e direto, garantindo que todos o
 4. Clique em "EVENTO" para visualizar as opções relacionadas ao gerenciamento do evento.
 5. Clique no botão "ORGANIZADORES", localizado abaixo do cabeçalho do evento.
 
-![Adicionar Organizador](../../../images/addOrganizador.gif)
+![Adicionar Organizador](../../images/addOrganizador.gif)
 
 6. Clique no botão roxo "ADICIONAR ORGANIZADOR" e preencha as informações solicitadas: e-mail, nome do organizador e níveis de acesso que ele terá no evento.
 7. Após preencher todos os campos, clique no botão "SALVAR", localizado na parte inferior da tela.
