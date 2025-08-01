@@ -23,7 +23,7 @@ Pronto! Você conseguirá ter acesso aos nomes, categorias e e-mail das pessoas 
 
 ## Exportação e Adição de novos participantes
 
-Nessa mesma tela é possível também a adição e exportação de novos participantes para o seu evento, tornando mais prático para o organizador a inserção de participantes seja como PDF ou CSV, como também de forma manual.
+Nessa mesma tela é possível também a adição de novos participantes e a exportação dos dados dos participantes em formato PDF ou CSV, tornando mais prático para o organizador tanto exportar as informações quanto inserir participantes manualmente.
 Inserindo nome, e-mail e Categoria do participante manualmente.
 
 ![Botões](./images/BotoesDaListagem.png)
