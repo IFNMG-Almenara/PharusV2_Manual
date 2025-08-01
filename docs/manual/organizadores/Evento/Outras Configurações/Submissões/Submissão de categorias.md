@@ -7,9 +7,9 @@ No Pharus, a configuração de categorias permite criar novas categorias de subm
 4. Em seguida, clique em "Submissões".
 5. Depois clique em "CATEGORIAS".
 
-1-Para adicionar uma nova categoria, clique em Adicionar Categorias.
+1. Para adicionar uma nova categoria, clique em Adicionar Categorias.
 
-2-Em seguida, preencha os seguintes campos:
+2. Em seguida, preencha os seguintes campos:
 
 - Título da Categoria: insira o nome da nova categoria.
 

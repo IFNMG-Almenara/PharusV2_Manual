@@ -11,18 +11,18 @@
 Configuração das Submissões de Trabalho
 Para definir os prazos (início, término e adiantamento), clique em cada opção correspondente e insira a data manualmente ou selecione pelo calendário.
 
-1- Defina o ***início da submissão de trabalhos*** clicando na opção correspondente.
+1. Defina o ***início da submissão de trabalhos*** clicando na opção correspondente.
 
-2-Em seguida, defina o ***término da submissão***.
+2. Em seguida, defina o ***término da submissão***.
 
-3-Caso deseje permitir um ***adiantamento de submissão***, clique na opção correspondente e defina a nova data.
+3. Caso deseje permitir um ***adiantamento de submissão***, clique na opção correspondente e defina a nova data.
 
-4-Após configurar as datas, defina a quantidade de autores por trabalho:
+4. Após configurar as datas, defina a quantidade de autores por trabalho:
 
 - Clique em Máximo de autores por trabalho e insira o número desejado.
 
 - Em seguida, defina o máximo de trabalhos por autor utilizando o mesmo processo.
 
-5-Para finalizar, adicione as informações para os autores. Após preencher tudo corretamente, clique em Salvar alterações para garantir que as configurações sejam registradas.
+5. Para finalizar, adicione as informações para os autores. Após preencher tudo corretamente, clique em Salvar alterações para garantir que as configurações sejam registradas.
 
 
