@@ -45,7 +45,11 @@ Informações Iniciais:
 
 * **Tipo de Evento**, uma forma de especificar se o evento se trata de uma *Palestra, Encontro ou Congresso.*
 
-* **Chamada de sugestão de atividades**
+* **Chamada de sugestão de atividades**.
+
+* **Evento com submissão de trabalhos**.
+
+* **Evento com apresentação de trabalhos**.
 
 ### Finalizando a configuração dos campos
 
