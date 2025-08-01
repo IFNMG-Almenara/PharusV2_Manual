@@ -1,11 +1,11 @@
-# Listagem de Participantes de um Evento no Pharus
+# Listagem de Inscritos de um Evento no Pharus
 
-No sistema do Pharus, o Organizador tem acesso a visualização de quantos e quais usuários estão inscritos dentro do evento criado.
-Facilitando ao usuário responsável pelo evento o acompanhamento das informações dos participantes que estão cadastrados no seu evento.
+No sistema do Pharus, o Organizador tem acesso à visualização de quantos e quais usuários estão inscritos dentro do evento criado.
+Facilitando ao usuário responsável pelo evento o acompanhamento das informações dos inscritos que estão cadastrados no seu evento.
 
-## Acessando a listagem de participantes do seu Evento
+## Acessando a listagem de inscritos do seu Evento
 
- Siga os passos a seguir para você como **Organizador**, conseguir visualizar os participantes do seu evento.
+ Siga os passos a seguir para você como **Organizador**, conseguir visualizar os inscritos do seu evento.
 
 1. Acesse "Meus eventos".
 
