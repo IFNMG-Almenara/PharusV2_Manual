@@ -6,7 +6,7 @@ A funcionalidade de editar categorias de inscrição no sistema de gestão de ev
 
 No Pharus, é possível modificar categorias específicas dentro de um evento para garantir que estejam alinhadas às necessidades do público e às especificações do evento. Essa funcionalidade permite alterar detalhes como nome e descrição de cada categoria de inscrição, proporcionando maior controle sobre a configuração do evento. Siga os passos abaixo para realizar a edição com sucesso:
 
-![](../../../images/criar_evento4.gif)
+![](../../images/criar_evento4.gif)
 
 1. No menu "MEUS EVENTOS", localize o evento onde deseja editar a categoria e clique sobre ele.
 2. Na página do evento, clique em "Configurações" no menu lateral esquerdo e selecione a opção "EVENTO".
