@@ -14,7 +14,7 @@ Após os passos anteriores, preencha as informações adicionais solicitadas a s
 
 No menu de atividades, será exibido um novo menu com opções para selecionar o tipo de atividade que deseja cadastrar.
 
-![Submetendo um Trabalho](../../../images/submiAtividade2.gif)
+![Submetendo uma Atividade](../../../images/submiAtividade2.gif)
 
 1. **Clique em "Adicionar"**: Na seção de Atividades, clique no botão roxo "ADICIONAR" para começar o cadastro da atividade.
 2. **Insira o Título e a Descrição**: Preencha os campos com o título e a descrição detalhada da atividade.
@@ -25,7 +25,7 @@ No menu de atividades, será exibido um novo menu com opções para selecionar o
 
 Revise os dados e continue o cadastro da atividade.
 
-![Submetendo um Trabalho](../../../images/submiAtividade3.gif)
+![Submetendo uma Atividade](../../../images/submiAtividade3.gif)
 
 5. **Selecione ou Adicione o Local**: Escolha o local da atividade ou adicione um novo local, se necessário.
 6. **Defina a Carga Horária**: Insira a carga horária da atividade ao lado do local.

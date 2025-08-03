@@ -1,4 +1,6 @@
 
+ # Configurações de Submissão
+ 
  No sistema Pharus, a configuração de submissões permite ao organizador definir prazos de envio dos trabalhos, prorrogações (adiantamento ou adiamento), número de autores por trabalho e limite de trabalhos por autor. 
 
 
