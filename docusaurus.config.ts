@@ -71,8 +71,8 @@ const config: Config = {
     algolia: {
       appId: 'MOBYVZFWBA', // Substitua por um valor real se estiver usando Algolia
       apiKey: '36ab2769247a9c757ebbd59fe1367abb', // Substitua por um valor real se estiver usando Algolia
-      indexName: '87f299aaad9098ce3ca493fd9589c124', // Substitua por um valor real se estiver usando Algolia
-    
+      indexName: 'PharusManual', // Substitua por um valor real se estiver usando Algolia
+
       contextualSearch: true, // Ativa a busca contextual
       searchPagePath: 'search', // Caminho da página de busca
       searchParameters: {}, // Parâmetros de busca adicionais, se necessário
