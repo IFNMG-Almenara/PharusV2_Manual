@@ -86,3 +86,8 @@ Para personalizar o visual do seu evento e concluir a configuração, siga os pa
 4. No botão "**PUBLICADO**", defina se o evento será publicado ou não.
 
 Para finalizar a criação do evento, clique no botão roxo no canto inferior direito onde está escrito "**FINALIZAR**".
+
+## Links Relacionados
+
+- [Adicionar Áreas Temáticas para Submissão de Trabalhos](../Outras%20Configura%C3%A7%C3%B5es/Submiss%C3%B5es/AdicionarAreaTematica.md)
+- [Adicionar Categorias de Submissão](../Outras%20Configura%C3%A7%C3%B5es/Submiss%C3%B5es/AdicionarCategoriaSubmissao.md)

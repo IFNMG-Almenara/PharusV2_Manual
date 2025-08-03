@@ -24,5 +24,9 @@ No sistema de gestão de eventos Pharus, a configuração de avaliadores permite
 4. **Salvar as informações**:
    - Após preencher todos os campos, clique em **SALVAR** para registrar as informações do avaliador.
 
-**Conclusão**:
-Após seguir essas instruções, os avaliadores estarão configurados e prontos para realizar a avaliação dos trabalhos submetidos no evento.
+---
+
+### Links para funções relacionadas
+- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
+- [Adicionar Barema](../3%20-%20Baremas/AdicionarBarema.md)
+- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)

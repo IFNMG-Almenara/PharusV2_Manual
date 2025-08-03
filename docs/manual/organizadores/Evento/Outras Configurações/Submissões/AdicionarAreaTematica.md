@@ -18,3 +18,8 @@ Siga o passo a passo abaixo para criar áreas temáticas no sistema:
 8. Clique em "SALVAR" para concluir.
 
 Pronto! Sua área temática foi criada e já pode ser associada às submissões dos trabalhos.
+
+## Links Relacionados
+
+- [Criar Evento](../CriarEvento.md)
+- [Adicionar Categorias de Submissão](./AdicionarCategoriaSubmissao.md)

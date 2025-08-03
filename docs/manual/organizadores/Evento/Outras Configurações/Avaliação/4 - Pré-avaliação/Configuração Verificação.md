@@ -23,3 +23,10 @@ No sistema Pharus, a configuração de verificação na pré-avaliação permite
 
 **Conclusão**:
 Após seguir essas instruções, a configuração de verificação estará concluída e pronta para garantir que os trabalhos atendam aos requisitos formais estabelecidos pelo evento.
+
+---
+
+### Links para funções relacionadas
+- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
+- [Adicionar Barema](../3%20-%20Baremas/AdicionarBarema.md)
+- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)

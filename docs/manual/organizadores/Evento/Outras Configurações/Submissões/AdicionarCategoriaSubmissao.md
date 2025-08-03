@@ -21,3 +21,8 @@ Siga os passos abaixo para adicionar categorias de submissão no sistema:
 8. Por fim, clique em "SALVAR" para concluir.
 
 Pronto! Sua nova categoria de submissão está criada e pronta para ser utilizada pelos participantes.
+
+## Links Relacionados
+
+- [Criar Evento](../CriarEvento.md)
+- [Adicionar Áreas Temáticas para Submissão de Trabalhos](./AdicionarAreaTematica.md)

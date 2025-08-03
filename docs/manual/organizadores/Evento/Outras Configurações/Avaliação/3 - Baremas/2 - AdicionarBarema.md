@@ -30,3 +30,10 @@ No sistema de gestão de eventos Pharus, a funcionalidade de adicionar baremas p
 
 **Conclusão**:
 Após seguir essas instruções, o barema estará configurado e pronto para ser utilizado na avaliação dos trabalhos submetidos no evento.
+
+---
+
+### Links para funções relacionadas
+- [Configuração de Barema](1%20-%20Configuração%20Barema.md)
+- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
+- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)

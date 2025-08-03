@@ -1,20 +1,30 @@
 # Adicionar Organizadores ao Evento
 
-No sistema de gestão de eventos Pharus, você pode adicionar outros organizadores para colaborar na administração e operação do evento. Essa funcionalidade é ideal para equipes que trabalham juntas, permitindo distribuir responsabilidades e facilitar a gestão.
+No sistema Pharus, a funcionalidade de adicionar organizadores permite ao responsável pelo evento incluir outros usuários para auxiliar na gestão e administração do evento. Essa funcionalidade é essencial para dividir tarefas e garantir que todas as áreas do evento sejam bem gerenciadas.
 
-## Como Adicionar um Organizador ao Evento
+## Passo a passo para adicionar organizadores
 
-Adicionar um organizador é um processo simples e direto, garantindo que todos os envolvidos tenham acesso às ferramentas necessárias para contribuir com o sucesso do evento. Siga os passos abaixo para incluir organizadores de forma prática:
+1. **Acessar o evento**:
+   - No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
+   - Escolha o evento ao qual deseja adicionar organizadores e clique sobre ele.
 
-1. No canto superior esquerdo, clique em "MEUS EVENTOS".
-2. Escolha o evento ao qual deseja adicionar um organizador e clique sobre ele.
-3. Clique na opção "CONFIGURAÇÕES", localizada no menu lateral esquerdo.
-4. Clique em "EVENTO" para visualizar as opções relacionadas ao gerenciamento do evento.
-5. Clique no botão "ORGANIZADORES", localizado abaixo do cabeçalho do evento.
+2. **Abrir as configurações gerais do evento**:
+   - No menu lateral esquerdo, clique em **CONFIGURAÇÕES**.
+   - Selecione **ORGANIZADORES** para acessar as opções relacionadas.
 
-![Adicionar Organizador](../../images/addOrganizador.gif)
+3. **Adicionar organizadores**:
+   - Clique em **ADICIONAR ORGANIZADOR**.
+   - Preencha as informações do organizador, incluindo:
+     - **Nome**: Insira o nome completo do organizador.
+     - **E-mail**: Informe o endereço de e-mail do organizador.
+   - Caso deseje enviar o convite automaticamente por e-mail, habilite essa opção.
 
-6. Clique no botão roxo "ADICIONAR ORGANIZADOR" e preencha as informações solicitadas: e-mail, nome do organizador e níveis de acesso que ele terá no evento.
-7. Após preencher todos os campos, clique no botão "SALVAR", localizado na parte inferior da tela.
+4. **Salvar as informações**:
+   - Após preencher todos os campos, clique em **SALVAR** para registrar o organizador.
 
-Pronto! O novo organizador foi adicionado com sucesso e já pode colaborar na gestão do evento.
+---
+
+### Links para funções relacionadas
+- [Configuração de Avaliação](../Avaliação/1%20-%20Configurações%20de%20Avaliação.md)
+- [Adicionar Categoria de Submissão](../Submissões/AdicionarCategoriaSubmissao.md)
+- [Configuração de Verificação na Pré-avaliação](../Avaliação/Pré-avaliação/Configuração%20Verificação.md)

@@ -1,12 +1,14 @@
+# Configurações de Avaliação
+
 No Pharus, a configuração de avaliação permite escolher o modelo de avaliação, permitir ressalvas (correções), configurar o formulário de verificação para validação de aspectos quanto à forma do trabalho e definir o modo de distribuição dos trabalhos (manual ou automática).
 
-1. No canto superior esquerdo, clique em MEUS EVENTOS e, em seguida, em ESTOU ORGANIZANDO.
+1. No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
 
 2. Escolha o evento no qual deseja adicionar um barema e clique sobre ele.
 
-3. No menu lateral esquerdo, clique em CONFIGURAÇÕES.
+3. No menu lateral esquerdo, clique em **CONFIGURAÇÕES**.
 
-4. Selecione AVALIAÇÃO para acessar as opções relacionadas à avaliação do evento.
+4. Selecione **AVALIAÇÃO** para acessar as opções relacionadas à avaliação do evento.
 
 5. Ao selecionar a aba "Avaliação", o usuário será redirecionado para a área de configurações da avaliação.
 
@@ -20,3 +22,10 @@ No Pharus, a configuração de avaliação permite escolher o modelo de avaliaç
 - **Modo de Distribuição dos Trabalhos**: Defina se a distribuição será feita de forma manual ou automática.
 
 **Após seguir essas instruções, a parte de configurações da avaliação estará concluída.**
+
+---
+
+### Links para funções relacionadas
+- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
+- [Adicionar Barema](../3%20-%20Baremas/AdicionarBarema.md)
+- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)

@@ -1,16 +1,28 @@
+# Configuração de Barema
+
 No sistema de gestão de eventos Pharus, a configuração de barema permite ao organizador definir os critérios que serão utilizados na avaliação dos trabalhos submetidos. Essa funcionalidade possibilita a criação de baremas personalizados, nos quais é possível atribuir nome, categorias e critérios específicos para análise.
 
+## Passo a passo para configurar um barema
 
-1. No canto superior esquerdo, clique em MEUS EVENTOS e, em seguida, em ESTOU ORGANIZANDO.
+1. **Acessar o evento**:
+   - No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
+   - Escolha o evento no qual deseja adicionar um barema e clique sobre ele.
 
-2. Escolha o evento no qual deseja adicionar um barema e clique sobre ele.
+2. **Abrir as configurações de avaliação**:
+   - No menu lateral esquerdo, clique em **CONFIGURAÇÕES**.
+   - Selecione **AVALIAÇÃO** para acessar as opções relacionadas à avaliação do evento.
 
-3. No menu lateral esquerdo, clique em CONFIGURAÇÕES.
-
-4. Selecione AVALIAÇÃO para acessar as opções relacionadas à avaliação do evento.
-
-5. Na opção **BAREMAS**, o usuário poderá listar os critérios de avaliação dos trabalhos. Para isso, clique em **ADICIONAR BAREMA**, insira o nome do barema e selecione as categorias desejadas.
-Em seguida, clique em **SALVAR** para concluir o processo.
+3. **Adicionar um barema**:
+   - Na aba **BAREMAS**, clique em **ADICIONAR BAREMA**.
+   - Insira o nome do barema e selecione as categorias desejadas.
+   - Clique em **SALVAR** para concluir o processo.
 
 **Após seguir essas instruções, o barema estará configurado.**
+
+---
+
+### Links para funções relacionadas
+- [Adicionar Barema](AdicionarBarema.md)
+- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
+- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
 

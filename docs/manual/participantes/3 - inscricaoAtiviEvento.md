@@ -15,3 +15,8 @@ Para se inscrever em uma atividade no sistema PHARUS, siga estes passos simples:
 5. Na próxima página, confirme sua inscrição clicando novamente no botão roxo "FINALIZAR INSCRIÇÃO".
 
 Ao completar esses passos, sua inscrição na atividade será registrada com sucesso!
+
+## Links Relacionados
+
+- [Inscrição em Evento](./1%20-%20FazerInscricao.md)
+- [Conferir Atividades Inscritas](./2%20-%20conferirInscricao.md)

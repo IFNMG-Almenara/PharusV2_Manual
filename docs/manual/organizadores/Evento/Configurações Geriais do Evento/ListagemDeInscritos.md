@@ -26,3 +26,30 @@ Pronto! Você conseguirá ter acesso aos nomes, categorias e e-mail das pessoas 
 
 Nessa mesma tela é possível também a adição de novos participantes e a exportação dos dados dos participantes em formato PDF ou CSV, tornando mais prático para o organizador tanto exportar as informações quanto inserir participantes manualmente.
 Inserindo nome, e-mail e Categoria do participante manualmente.
+
+# Listagem de Inscritos
+
+No sistema Pharus, a funcionalidade de listagem de inscritos permite ao organizador visualizar e gerenciar os participantes que se inscreveram no evento. Essa funcionalidade é essencial para acompanhar o número de inscritos, verificar informações e realizar ações como exportação de dados.
+
+## Passo a passo para acessar a listagem de inscritos
+
+1. **Acessar o evento**:
+   - No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
+   - Escolha o evento ao qual deseja visualizar a listagem de inscritos e clique sobre ele.
+
+2. **Abrir a listagem de inscritos**:
+   - No menu lateral esquerdo, clique em **INSCRITOS**.
+   - Visualize a lista de participantes inscritos no evento.
+
+3. **Gerenciar inscritos**:
+   - Utilize as opções disponíveis para:
+     - **Filtrar inscritos**: Por categorias ou outras informações relevantes.
+     - **Exportar dados**: Gere relatórios em formatos como Excel ou PDF.
+     - **Editar informações**: Atualize dados dos inscritos, se necessário.
+
+---
+
+### Links para funções relacionadas
+- [Adicionar Categoria de Submissão](../Submissões/AdicionarCategoriaSubmissao.md)
+- [Editar Categoria de Inscrição](../Configurações%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
+- [Adicionar Organizadores ao Evento](../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
