@@ -24,5 +24,5 @@ Pronto! Sua nova categoria de submissão está criada e pronta para ser utilizad
 
 ## Links Relacionados
 
-- [Criar Evento](../CriarEvento.md)
+- [Criar Evento](../../CriarEvento.md)
 - [Adicionar Áreas Temáticas para Submissão de Trabalhos](./AdicionarAreaTematica.md)

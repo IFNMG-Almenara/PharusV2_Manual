@@ -26,6 +26,6 @@ No Pharus, a configuração de avaliação permite escolher o modelo de avaliaç
 ---
 
 ### Links para funções relacionadas
-- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
-- [Adicionar Barema](../3%20-%20Baremas/AdicionarBarema.md)
-- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)
+- [Configuração de Verificação na Pré-avaliação](../Avaliação/4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)
+- [Adicionar Barema](../Avaliação/3%20-%20Baremas/2%20-%20AdicionarBarema.md)
+- [Configurar Avaliadores](../Avaliação/2%20-%20Avaliadores/Avaliadores.md)

@@ -25,6 +25,6 @@ No sistema Pharus, a funcionalidade de adicionar organizadores permite ao respon
 ---
 
 ### Links para funções relacionadas
-- [Configuração de Avaliação](../Avaliação/1%20-%20Configurações%20de%20Avaliação.md)
-- [Adicionar Categoria de Submissão](../Submissões/AdicionarCategoriaSubmissao.md)
-- [Configuração de Verificação na Pré-avaliação](../Avaliação/Pré-avaliação/Configuração%20Verificação.md)
+- [Configuração de Avaliação](../Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
+- [Adicionar Categoria de Submissão](../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
+- [Configuração de Verificação na Pré-avaliação](../Outras%20Configurações/Avaliação/4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)

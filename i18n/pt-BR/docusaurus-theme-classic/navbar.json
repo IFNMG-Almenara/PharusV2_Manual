@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Manual Pharus 2.0",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo",
+    "description": "The alt text of navbar logo"
+  }
+}

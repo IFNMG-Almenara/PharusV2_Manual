@@ -50,6 +50,6 @@ No sistema Pharus, a funcionalidade de listagem de inscritos permite ao organiza
 ---
 
 ### Links para funções relacionadas
-- [Adicionar Categoria de Submissão](../Submissões/AdicionarCategoriaSubmissao.md)
+- [Adicionar Categoria de Submissão](../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
 - [Editar Categoria de Inscrição](../Configurações%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
 - [Adicionar Organizadores ao Evento](../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)

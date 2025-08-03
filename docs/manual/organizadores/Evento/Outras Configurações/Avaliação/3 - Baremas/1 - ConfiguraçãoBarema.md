@@ -22,7 +22,7 @@ No sistema de gestão de eventos Pharus, a configuração de barema permite ao o
 ---
 
 ### Links para funções relacionadas
-- [Adicionar Barema](AdicionarBarema.md)
-- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
-- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
+- [Adicionar Barema](2%20-%20AdicionarBarema.md)
+- [Configuração de Avaliação](../1%20-%20ConfiguraçõesdeAvaliação.md)
+- [Configuração de Verificação na Pré-avaliação](../4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)
 

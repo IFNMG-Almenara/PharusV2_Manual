@@ -29,6 +29,6 @@ Pronto! O convite foi enviado com sucesso, e o avaliador agora pode participar d
 ---
 
 ### Links para funções relacionadas
-- [Configurar Avaliadores](../Avaliadores.md)
-- [Adicionar Barema](../3%20-%20Baremas/AdicionarBarema.md)
-- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
+- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)
+- [Adicionar Barema](../3%20-%20Baremas/2%20-%20AdicionarBarema.md)
+- [Configuração de Verificação na Pré-avaliação](../4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)

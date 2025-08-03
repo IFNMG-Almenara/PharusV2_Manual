@@ -89,5 +89,5 @@ Para finalizar a criação do evento, clique no botão roxo no canto inferior di
 
 ## Links Relacionados
 
-- [Adicionar Áreas Temáticas para Submissão de Trabalhos](../Outras%20Configura%C3%A7%C3%B5es/Submiss%C3%B5es/AdicionarAreaTematica.md)
-- [Adicionar Categorias de Submissão](../Outras%20Configura%C3%A7%C3%B5es/Submiss%C3%B5es/AdicionarCategoriaSubmissao.md)
+- [Adicionar Áreas Temáticas para Submissão de Trabalhos](../Evento/Outras%20Configurações/Submissões/AdicionarAreaTematica.md)
+- [Adicionar Categorias de Submissão](../Evento/Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)

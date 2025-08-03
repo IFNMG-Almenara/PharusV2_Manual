@@ -21,5 +21,5 @@ Pronto! Sua área temática foi criada e já pode ser associada às submissões 
 
 ## Links Relacionados
 
-- [Criar Evento](../CriarEvento.md)
+- [Criar Evento](../../CriarEvento.md)
 - [Adicionar Categorias de Submissão](./AdicionarCategoriaSubmissao.md)

@@ -27,8 +27,8 @@ Para definir os prazos (início, término e adiantamento), clique em cada opçã
 ---
 
 ### Links para funções relacionadas
-- [Adicionar Categoria de Submissão](../AdicionarCategoriaSubmissao.md)
-- [Configuração de Verificação na Pré-avaliação](../Avaliação/Pré-avaliação/Configuração%20Verificação.md)
-- [Configuração de Avaliação](../Avaliação/1%20-%20Configurações%20de%20Avaliação.md)
+- [Adicionar Categoria de Submissão](../Submissões/AdicionarCategoriaSubmissao.md)
+- [Configuração de Verificação na Pré-avaliação](../Avaliação/4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)
+- [Configuração de Avaliação](../Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
 
 

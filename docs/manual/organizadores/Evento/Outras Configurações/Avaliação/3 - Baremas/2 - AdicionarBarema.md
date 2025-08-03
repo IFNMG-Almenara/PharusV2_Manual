@@ -34,6 +34,6 @@ Após seguir essas instruções, o barema estará configurado e pronto para ser 
 ---
 
 ### Links para funções relacionadas
-- [Configuração de Barema](1%20-%20Configuração%20Barema.md)
-- [Configuração de Avaliação](../1%20-%20Configurações%20de%20Avaliação.md)
-- [Configuração de Verificação na Pré-avaliação](../Pré-avaliação/Configuração%20Verificação.md)
+- [Configuração de Barema](2%20-%20AdicionarBarema.md)
+- [Configuração de Avaliação](../1%20-%20ConfiguraçõesdeAvaliação.md)
+- [Configuração de Verificação na Pré-avaliação](../4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)
