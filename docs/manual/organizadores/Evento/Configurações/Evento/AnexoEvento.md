@@ -1,6 +1,6 @@
 # Anexos no seu Evento
 
-Após preenchimento das informações essenciais do seu evento no nosso Sistema do Pharus IFNMG, você como Organizador do evento também conseguirá enviar anexos, editá-los e também apagá-los caso deseje. 
+Após preenchimento das informações essenciais do seu evento no nosso Sistema do Pharus IFNMG, você como Organizador do evento conseguirá enviar anexos, editá-los e também apagá-los caso deseje. 
 
 ## Primeiros Passos
 
