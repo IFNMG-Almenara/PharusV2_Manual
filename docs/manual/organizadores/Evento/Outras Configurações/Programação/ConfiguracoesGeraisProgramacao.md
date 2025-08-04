@@ -22,13 +22,13 @@ Dentro do sistema do Pharus, ao clicar na aba evento dentro da seção "Organiza
 
 7. Abaixo desse campo também é possível visualizar o campo de **"Número de Atividades por Participante"**, onde o organizador irá definir a quantidade de atividades conforme o número de participantes.
 ####
-![Configurações gerais](../../images/configuracoesGeraisDeProgramacao.png)
+![Configurações gerais](../../../images/configuracoesGeraisDeProgramacao.png)
 
 ## Colaboradores
 
 Na aba de configurações gerais do seu evento, você encontra a aba **"Colaboradores"**. Dentro dela você consegue gerenciar todos os membros que auxiliam no desenvolvimento das atividades do seu evento. Ela está localizada ao lado da aba de "Atividades".
 
-![Colaboradores](../../images/colaboradoresVisualizacao.png)
+![Colaboradores](../../../images/colaboradoresVisualizacao.png)
 ####
 Assim que você adentrar a aba de **"Colaboradores"**, logo de ínicio será mostrado uma listagem com todos os seus colaboradores do Evento *( Caso tenha )* com o número de atividades vinculadas a cada colaborador.
 
@@ -43,8 +43,19 @@ Assim que você adentrar a aba de **"Colaboradores"**, logo de ínicio será mos
 * Cargo
 * Mini-biografia 
 
-![Adicionar Colaboradores](../../images/modalAdicionarColaborador.png)
+![Adicionar Colaboradores](../../../images/modalAdicionarColaborador.png)
 
 3. Após ter cadastrado um colaborador, dentro da lista você consegue **visualizar, editar e remover** um colaborador, sendo a tela de edição possuindo os mesmos campos que a de adição.
 ####
   Com tudo isso já feito, você já conseguirá localizar um colaborador e visualizá-lo dentro da listagem de colaboradores normalmente, então basta clicar em **"Salvar"** e pronto! As configurações foram concluídas.
+## Artigos Relacionados
+
+Confira também os seguintes artigos para aprofundar seu conhecimento sobre a gestão e programação de eventos no sistema Pharus:
+
+- [Como criar um evento](../../CriarEvento.md)
+- [Adicionar organizadores ao evento](../../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
+- [Editar categorias de inscrição](../../Configurações%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
+- [Configurações de avaliação](../../Outras%20Configurações/Avaliação/1%20-%20Configurações%20de%20Avaliação.md)
+- [Convidar avaliadores](../../Outras%20Configurações/Avaliação/2%20-%20Avaliadores/ConvidarAvaliadores.md)
+- [Adicionar área temática](../../Outras%20Configurações/Submissões/AdicionarAreaTematica.md)
+- [Adicionar categoria de submissão](../../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
