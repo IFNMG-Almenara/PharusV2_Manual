@@ -18,7 +18,7 @@ Dentro do sistema do Pharus, ao clicar na aba evento dentro da seção "Organiza
 
 6. Dentro dessa aba é possível visualizar os campos de **"Início e Término"** das atividades, que pode ser definido pelo organizador da forma que desejar.
 
-*É possível ao clicar no botão **"Adiar**", exibir um outro campo do qual você como organizador poderá prorrogar ou não as atividades.*
+*É possível ao clicar no botão **"Adiar"**, exibir um outro campo do qual você como organizador poderá prorrogar ou não as atividades.*
 
 7. Abaixo desse campo também é possível visualizar o campo de **"Número de Atividades por Participante"**, onde o organizador irá definir a quantidade de atividades conforme o número de participantes.
 ####
