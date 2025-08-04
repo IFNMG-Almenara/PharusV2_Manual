@@ -6,6 +6,8 @@ Após preenchimento das informações essenciais do seu evento no nosso Sistema 
 
  Siga os passos a seguir para você como **Organizador**, enviar os seus primeiros anexos ao seu evento.
 
+![Adição de Anexo](./images/campoDeAdicionarAnexo.png)
+
 1. Acesse "Meus eventos".
 
 2. Selecione o evento que você deseja visualizar.
@@ -27,3 +29,5 @@ E então clique em **"Anexar"** e o seu documento já terá sido enviado para o 
 Com o seu anexo já enviado, é possível também realizar alterações no mesmo, ao clicar no ícone do "Lápis" que é exibido na linha onde contém o *Nome e Descrição* do seu anexo, você como organizador tem acesso a mesma janela que é exibida ao adicionar um anexo, onde é possível alterar, inserir ou deletar o seu anexo! 
 
 *Lembre-se, o tamanho limite para envio de anexo é de 10MB, como descrito abaixo do campo de inserção de anexos.*
+
+![Edição de Anexo](./images/campoDeEdicaoDoAnexo.png)
