@@ -25,3 +25,10 @@ Convidar um avaliador é um processo simples e eficiente, permitindo que você i
 Após preencher todas as informações, clique no botão **"SALVAR"** na parte inferior da tela.
 
 Pronto! O convite foi enviado com sucesso, e o avaliador agora pode participar da avaliação das atividades do evento.
+
+---
+
+### Links para funções relacionadas
+- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)
+- [Adicionar Barema](../3%20-%20Baremas/2%20-%20AdicionarBarema.md)
+- [Configuração de Verificação na Pré-avaliação](../4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)

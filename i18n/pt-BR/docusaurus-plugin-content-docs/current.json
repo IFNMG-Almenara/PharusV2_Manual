@@ -1,0 +1,74 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Manual Pharus": {
+    "message": "Manual Pharus",
+    "description": "The label for category Manual Pharus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Manual Pharus.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Manual Pharus in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Organizadores": {
+    "message": "Organizadores",
+    "description": "The label for category Organizadores in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Organizadores.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Organizadores in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Evento": {
+    "message": "Evento",
+    "description": "The label for category Evento in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações Geriais do Evento": {
+    "message": "Configurações Geriais do Evento",
+    "description": "The label for category Configurações Geriais do Evento in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Outras Configurações": {
+    "message": "Outras Configurações",
+    "description": "The label for category Outras Configurações in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Avaliação": {
+    "message": "Avaliação",
+    "description": "The label for category Avaliação in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Avaliadores": {
+    "message": "Avaliadores",
+    "description": "The label for category Avaliadores in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Baremas": {
+    "message": "Baremas",
+    "description": "The label for category Baremas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pré-avaliação": {
+    "message": "Pré-avaliação",
+    "description": "The label for category Pré-avaliação in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Distribuição": {
+    "message": "Distribuição",
+    "description": "The label for category Distribuição in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Programação": {
+    "message": "Programação",
+    "description": "The label for category Programação in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Submissões": {
+    "message": "Submissões",
+    "description": "The label for category Submissões in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Avaliadores.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Avaliadores in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Participantes": {
+    "message": "Participantes",
+    "description": "The label for category Participantes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Participantes.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Participantes in sidebar tutorialSidebar"
+  }
+}

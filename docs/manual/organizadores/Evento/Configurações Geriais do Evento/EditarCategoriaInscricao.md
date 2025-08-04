@@ -15,3 +15,10 @@ No Pharus, é possível modificar categorias específicas dentro de um evento pa
 5. Faça as modificações necessárias e clique no botão roxo "Salvar" para confirmar as alterações.
 
 Pronto! A categoria foi editada com sucesso e as mudanças foram aplicadas.
+
+---
+
+### Links para funções relacionadas
+- [Adicionar Categoria de Submissão](../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
+- [Configuração de Avaliação](../Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
+- [Adicionar Organizadores ao Evento](../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
