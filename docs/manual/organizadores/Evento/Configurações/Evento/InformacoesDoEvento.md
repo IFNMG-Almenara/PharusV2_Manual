@@ -16,7 +16,7 @@ No sistema do Pharus é possível o organizador preencher diversos campos do qua
 
 5. Ao acessar as configurações será possível visualizar a aba **"Identificação"**.
 
-6. Após selecionar a aba "Identificação" é possível o organizador visualizar os campos de preenchimento do qual posteriormente será muito importante.
+6. Após selecionar a aba "Identificação" é possível o organizador visualizar os campos de preenchimento que posteriormente serão muito importantes.
 
 A seguir será possível visualizar uma demonstração dos campos disponíveis e as suas utilidades para o seu evento.
 
