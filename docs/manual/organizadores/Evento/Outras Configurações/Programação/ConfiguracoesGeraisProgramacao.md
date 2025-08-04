@@ -31,7 +31,7 @@ Na aba de configurações gerais do seu evento, você encontra a aba **"Colabora
 
 ![Colaboradores](../../../images/colaboradoresVisualizacao.png)
 ####
-Assim que você adentrar a aba de **"Colaboradores"**, logo de ínicio será mostrado uma listagem com todos os seus colaboradores do Evento *( Caso tenha )* com o número de atividades vinculadas a cada colaborador.
+Assim que você adentrar a aba de **"Colaboradores"**, logo de início será mostrado uma listagem com todos os seus colaboradores do Evento *( Caso tenha )* com o número de atividades vinculadas a cada colaborador.
 
 *Vamos partir do pressuposto que não tenha nenhum colaborador cadastrado, dito isso, siga os passos a seguir.*
 1. Para adicionar um colaborador, clique no botão **"Adicionar Colaborador**" no canto superior direito, como é mostrado na imagem de representação da tela.
