@@ -24,7 +24,7 @@ A seguir será possível visualizar uma demonstração dos campos disponíveis e
 
 Visualizando os campos presentes em "Identificação" vamos entender o propósito individual de cada um.
 
-![Campos Iniciais](./images/identificacaoDosCampos01)
+![Campos Iniciais](./images/identificacaoDosCampos01.png)
 
 ### Preencha todos os campos com as informações solicitadas
 Informações Iniciais:
