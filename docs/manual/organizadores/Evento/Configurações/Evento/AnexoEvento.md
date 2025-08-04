@@ -4,7 +4,7 @@ Após preenchimento das informações essenciais do seu evento no nosso Sistema 
 
 ## Primeiros Passos
 
- Siga os passos a seguir para você como **Organizador**, enviar os seus primeiros anexos ao seu evento.
+Siga os passos a seguir para você como **Organizador**, enviar os seus primeiros anexos ao seu evento.
 
 1. Acesse "Meus eventos".
 
