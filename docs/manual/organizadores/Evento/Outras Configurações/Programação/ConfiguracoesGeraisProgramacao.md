@@ -28,6 +28,7 @@ Dentro do sistema do Pharus, ao clicar na aba evento dentro da seção "Organiza
 
 Na aba de configurações gerais do seu evento, você encontra a aba **"Colaboradores"**. Dentro dela você consegue gerenciar todos os membros que auxiliam no desenvolvimento das atividades do seu evento. Ela está localizada ao lado da aba de "Atividades".
 
+
 ![Colaboradores](../../../images/colaboradoresVisualizacao.png)
 ####
 Assim que você adentrar a aba de **"Colaboradores"**, logo de ínicio será mostrado uma listagem com todos os seus colaboradores do Evento *( Caso tenha )* com o número de atividades vinculadas a cada colaborador.
@@ -55,7 +56,7 @@ Confira também os seguintes artigos para aprofundar seu conhecimento sobre a ge
 - [Como criar um evento](../../CriarEvento.md)
 - [Adicionar organizadores ao evento](../../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
 - [Editar categorias de inscrição](../../Configurações%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
-- [Configurações de avaliação](../../Outras%20Configurações/Avaliação/1%20-%20Configurações%20de%20Avaliação.md)
+- [Configurações de avaliação](../../Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
 - [Convidar avaliadores](../../Outras%20Configurações/Avaliação/2%20-%20Avaliadores/ConvidarAvaliadores.md)
 - [Adicionar área temática](../../Outras%20Configurações/Submissões/AdicionarAreaTematica.md)
 - [Adicionar categoria de submissão](../../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
