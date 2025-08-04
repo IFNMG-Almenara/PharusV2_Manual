@@ -29,38 +29,40 @@ Visualizando os campos presentes em "Identificação" vamos entender o propósit
 ### Preencha todos os campos com as informações solicitadas
 Informações Iniciais:
 
-* **Título**, o nome do seu evento.
+* **[ 1 ] Título**, o nome do seu evento.
 
-* **Sigla**, uma abreviação do nome do seu evento. 
+* **[ 2 ] Sigla**, uma abreviação do nome do seu evento. 
 
-* **Carga Horária**.
+* **[ 3 ] Carga Horária**.
 
-* **Link de acesso**.
+* **[ 4 ] Link de acesso**.
 
-* **Inicio e Término do Evento**.
+* **[ 5 ] Inicio e Término do Evento**.
 
-* **Inicio e Término das inscrições do evento**.
+* **[ 6 ] Inicio e Término das inscrições do evento**.
 
-* **Adiamento das Inscrições**.
+* **[ 7 ] Adiamento das Inscrições**.
 
-* **Tipo de Evento**, uma forma de especificar se o evento se trata de uma *Palestra, Encontro ou Congresso.*
+* **[ 8 ] Tipo de Evento**, uma forma de especificar se o evento se trata de uma *Palestra, Encontro ou Congresso.*
 
-* **Chamada de sugestão de atividades**.
+* **[ 9 ] Chamada de sugestão de atividades**.
 
-* **Evento com submissão de trabalhos**.
+* **[ 10 ] Evento com submissão de trabalhos**.
 
-* **Evento com apresentação de trabalhos**.
+* **[ 11 ] Evento com apresentação de trabalhos**.
 
 ### Finalizando a configuração dos campos
 
 ![Últimos Campos](./images/identificacaoDosCampos02)
 
-* **Local do Evento**.
+* **[ 12 ] Local do Evento**.
 
-* **Cidade e Estado**.
+* **[ 13 ] Cidade e Estado**.
 
-* **Organização**.
+* **[ 14 ] Organização**.
 
-* **E-mail e Telefone**.
+* **[ 15 ] E-mail e Telefone**.
 
-* **Informações do seu Evento**, a descrição que será exibida abaixo do título.
+* **[ 16 ] Informações do seu Evento**, a descrição que será exibida abaixo do título.
+
+Após tudo estar configuado basta clicar em **"Salvar** e pronto, o seu evento foi configurado com sucesso!
