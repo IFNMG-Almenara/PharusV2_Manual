@@ -31,3 +31,13 @@ Com o seu anexo já enviado, é possível também realizar alterações no mesmo
 *Lembre-se, o tamanho limite para envio de anexo é de 10MB, como descrito abaixo do campo de inserção de anexos.*
 
 ![Edição de Anexo](./../../..//images/campoDeEdicaoDoAnexo.png)
+
+## Artigos Relacionados
+
+Veja também outros tutoriais úteis para organização de eventos:
+
+- [Como criar um evento](../../CriarEvento.md)
+- [Adicionar organizadores ao evento](../../Configura%C3%A7%C3%B5es%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
+- [Editar categorias de inscrição](../../Configura%C3%A7%C3%B5es%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
+- [Configurações de avaliação](../../../Evento/Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
+- [Adicionar área temática](../../Outras%20Configura%C3%A7%C3%B5es/Submiss%C3%B5es/AdicionarAreaTematica.md)
