@@ -21,4 +21,4 @@ Pronto! A categoria foi editada com sucesso e as mudanças foram aplicadas.
 ### Links para funções relacionadas
 - [Adicionar Categoria de Submissão](../Outras%20Configurações/Submissões/AdicionarCategoriaSubmissao.md)
 - [Configuração de Avaliação](../Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
-- [Adicionar Organizadores ao Evento](../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
+- [Adicionar Organizadores ao Evento](../Configurações%20Geriais%20do%20Evento/2%20-%20AdicionarOrganizadoresEvento.md)
