@@ -24,7 +24,7 @@ A seguir será possível visualizar uma demonstração dos campos disponíveis e
 
 Visualizando os campos presentes em "Identificação" vamos entender o propósito individual de cada um.
 
-![Campos Iniciais](./images/identificacaoDosCampos01.png)
+![Campos Iniciais](../../../images/identificacaoDosCampos01.png)
 
 ### Preencha todos os campos com as informações solicitadas
 Informações Iniciais:
@@ -53,7 +53,7 @@ Informações Iniciais:
 
 ### Finalizando a configuração dos campos
 
-![Últimos Campos](./images/identificacaoDosCampos02)
+![Últimos Campos](../../../images/identificacaoDosCampos02)
 
 * **[ 12 ] Local do Evento**.
 
