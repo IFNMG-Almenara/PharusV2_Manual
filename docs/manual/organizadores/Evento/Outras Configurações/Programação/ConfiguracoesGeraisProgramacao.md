@@ -22,14 +22,14 @@ Dentro do sistema do Pharus, ao clicar na aba evento dentro da seção "Organiza
 
 7. Abaixo desse campo também é possível visualizar o campo de **"Número de Atividades por Participante"**, onde o organizador irá definir a quantidade de atividades conforme o número de participantes.
 ####
-![Configurações gerais](../../../images/configuracoesGeraisDeProgramacao.png)
+![Configurações gerais](../../images/configuracoesGeraisDeProgramacao.png)
 
 ## Colaboradores
 
 Na aba de configurações gerais do seu evento, você encontra a aba **"Colaboradores"**. Dentro dela você consegue gerenciar todos os membros que auxiliam no desenvolvimento das atividades do seu evento. Ela está localizada ao lado da aba de "Atividades".
 
 
-![Colaboradores](../../../images/colaboradoresVisualizacao.png)
+![Colaboradores](../../images/colaboradoresVisualizacao.png)
 ####
 Assim que você adentrar a aba de **"Colaboradores"**, logo de início será mostrado uma listagem com todos os seus colaboradores do Evento *( Caso tenha )* com o número de atividades vinculadas a cada colaborador.
 
@@ -44,7 +44,7 @@ Assim que você adentrar a aba de **"Colaboradores"**, logo de início será mos
 * Cargo
 * Mini-biografia 
 
-![Adicionar Colaboradores](../../../images/modalAdicionarColaborador.png)
+![Adicionar Colaboradores](../../images/modalAdicionarColaborador.png)
 
 3. Após ter cadastrado um colaborador, dentro da lista você consegue **visualizar, editar e remover** um colaborador, sendo a tela de edição possuindo os mesmos campos que a de adição.
 ####
