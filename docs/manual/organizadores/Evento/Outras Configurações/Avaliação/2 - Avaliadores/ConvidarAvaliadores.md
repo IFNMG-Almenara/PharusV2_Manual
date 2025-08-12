@@ -6,7 +6,7 @@ No sistema de gestão de eventos Pharus, o organizador pode convidar avaliadores
 
 Convidar um avaliador é um processo simples e eficiente, permitindo que você integre especialistas na avaliação das atividades do evento. Siga os passos abaixo para adicionar avaliadores ao seu evento:
 
-![Convidar Avaliador](../../../images/convidarAvaliador.gif)
+![Convidar Avaliador](../../../../images/convidarAvaliador.gif)
 
 1. No canto superior esquerdo, clique em **"MEUS EVENTOS"**.
 2. Escolha o evento no qual deseja convidar um avaliador e clique sobre ele.
@@ -25,3 +25,10 @@ Convidar um avaliador é um processo simples e eficiente, permitindo que você i
 Após preencher todas as informações, clique no botão **"SALVAR"** na parte inferior da tela.
 
 Pronto! O convite foi enviado com sucesso, e o avaliador agora pode participar da avaliação das atividades do evento.
+
+---
+
+### Links para funções relacionadas
+- [Configurar Avaliadores](../2%20-%20Avaliadores/Avaliadores.md)
+- [Adicionar Barema](../3%20-%20Baremas/2%20-%20AdicionarBarema.md)
+- [Configuração de Verificação na Pré-avaliação](../4%20-%20Pré-avaliação/ConfiguraçãoVerificação.md)

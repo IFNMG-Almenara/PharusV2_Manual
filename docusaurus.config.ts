@@ -6,6 +6,8 @@ const config: Config = {
   title: 'Manual de Usuario',
   tagline: 'Versão pharus 2.0',
   favicon: 'img/favicon.ico',
+ // themes: ['@docusaurus/theme-search-algolia'],
+
 
   // Set the production url of your site here
   url: 'https://IFNMG-Almenara.github.io',
@@ -27,7 +29,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'pt-BR',
-    locales: ['en','pt-BR'],
+    locales: ['pt-BR', 'en'],
   },
 
   presets: [
@@ -66,6 +68,48 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    // algolia: {
+    //   appId: 'MOBYVZFWBA', // Substitua por um valor real se estiver usando Algolia
+    //   apiKey: '36ab2769247a9c757ebbd59fe1367abb', // Substitua por um valor real se estiver usando Algolia
+    //   indexName: 'PharusManual', // Substitua por um valor real se estiver usando Algolia
+
+    //   contextualSearch: true, // Ativa a busca contextual
+    //   searchPagePath: 'search', // Caminho da página de busca
+    //   searchParameters: {}, // Parâmetros de busca adicionais, se necessário
+    //   placeholder: 'Pesquisar', // Texto do placeholder da barra de busca
+    //   translations: {
+    //     button: {
+    //       buttonText: 'Pesquisar',
+    //       buttonAriaLabel: 'Pesquisar',
+    //     },
+    //     modal: {
+    //       searchBox: {
+    //         resetButtonTitle: 'Limpar consulta',
+    //         resetButtonAriaLabel: 'Limpar consulta',
+    //         cancelButtonText: 'Cancelar',
+    //         cancelButtonAriaLabel: 'Cancelar',
+    //       },
+    //       startScreen: {
+    //         recentSearchesTitle: 'Pesquisas recentes',
+    //         noRecentSearchesText: 'Nenhuma pesquisa recente',
+    //         saveRecentSearchButtonTitle: 'Salvar pesquisa',
+    //         removeRecentSearchButtonTitle: 'Remover pesquisa recente',
+    //         favoriteSearchesTitle: 'Pesquisas favoritas',
+    //         removeFavoriteSearchButtonTitle: 'Remover pesquisa favorita',
+    //       },
+    //       errorScreen: {
+    //         titleText: 'Não foi possível obter resultados',
+    //         helpText: 'Você pode tentar ajustar sua consulta ou verificar sua conexão com a internet.',
+    //       },
+    //       footer: {
+    //         selectText: 'Selecionar',
+    //         navigateText: 'Navegar',
+    //         closeText: 'Fechar',
+    //         searchByText: 'Pesquisar por',
+    //       },
+    //     },        
+    //   },
+    // },
     navbar: {
       title: 'Manual Pharus 2.0',
       logo: {
@@ -73,7 +117,10 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
-        
+        {
+          type: 'search',
+          position: 'right',
+        },
       ],
     },
     footer: {

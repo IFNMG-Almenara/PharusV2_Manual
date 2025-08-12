@@ -1,0 +1,22 @@
+{
+  "link.item.label.Outros Eventos": {
+    "message": "Outros Eventos",
+    "description": "The label of footer link with label=Outros Eventos linking to https://eventos.ifnmg.edu.br/#eventos"
+  },
+  "link.item.label.Validação de Certificados": {
+    "message": "Validação de Certificados",
+    "description": "The label of footer link with label=Validação de Certificados linking to https://eventos.ifnmg.edu.br/#certificados"
+  },
+  "link.item.label.Área do participante": {
+    "message": "Área do participante",
+    "description": "The label of footer link with label=Área do participante linking to https://eventos.ifnmg.edu.br/area-do-participante/meus-eventos"
+  },
+  "link.item.label.pharus@ifnmg.edu.br": {
+    "message": "pharus@ifnmg.edu.br",
+    "description": "The label of footer link with label=pharus@ifnmg.edu.br linking to mailto:pharus@ifnmg.edu.br"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 IFMNG - Campus Almenara - Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
