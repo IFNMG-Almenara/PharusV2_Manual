@@ -53,11 +53,7 @@ Informações Iniciais:
 
 ### Finalizando a configuração dos campos
 
-<<<<<<< HEAD
 ![Últimos Campos](../../../images/identificacaoDosCampos02.png)
-=======
-![Últimos Campos](../../../images/identificacaoDosCampos02)
->>>>>>> 406998faacb19861660c75045c77e6082684f70b
 
 * **[ 12 ] Local do Evento**.
 
