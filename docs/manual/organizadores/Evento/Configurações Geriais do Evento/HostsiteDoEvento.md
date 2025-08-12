@@ -16,7 +16,7 @@ Dentro do sistema do Pharus, na aba de configurações do evento, você pode per
 
 5. Ao acessar as configurações será possível visualizar a aba **"Hostsite"**.
 
-6. Após selecionar a aba "Hostsite" é possível o organizador visualizar os campos de envio de logomarca e cabeçalho logo no ínicio.
+6. Após selecionar a aba "Hostsite" é possível o organizador visualizar os campos de envio de logomarca e cabeçalho logo no início.
 
 7. Selecione uma *imagem* a sua escolha e insira nesses campos, assim que o conteúdo for enviado será exibido uma opção de recorte para se adequar a **proporção exigida 16:4.**
 
