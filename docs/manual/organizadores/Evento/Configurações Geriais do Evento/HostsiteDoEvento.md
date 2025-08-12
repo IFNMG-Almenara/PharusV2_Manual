@@ -30,7 +30,7 @@ Com a sua logomarca e cabeçalho inseridos no seu evento, vamos agora para sele�
 
 1. Em **"Selecione a cor desejada para o site"**, é possível você selecionar a cor que deseja para representar o seu evento.
 
-2. A seguir é possível visualizar o campo de seleção **"Publicado"**, onde você como organizaor pode definir se esse evento já foi publicado ou não.
+2. A seguir é possível visualizar o campo de seleção **"Publicado"**, onde você como organizador pode definir se esse evento já foi publicado ou não.
 
 3. Abaixo de "Publicado", temos as opções de marcação **"Página Adicional"** que ao marcar *"Sim"*, abrirá um editor de texto que é possível você inserir quaisquer informações adicionais que preferir.
 
