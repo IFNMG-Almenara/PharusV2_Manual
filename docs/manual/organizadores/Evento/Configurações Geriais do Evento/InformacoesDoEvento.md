@@ -1,8 +1,8 @@
 # Edição das Informações do Evento
 
-No sistema do Pharus é possível o organizador preencher diversos campos que serão cruciais para que os usuários que visualizarem seu evento consigam ter acesso à maior quantidade de informações sobre ele, antes da sua inscrição.
+No sistema do Pharus é possível o organizador preencher diversos campos que serão cruciais para que os usuários visualizem seu evento e consiga ter acesso a maior quantidade de informações sobre ele, antes da sua inscrição.
 
-## Preenchendo as informações
+## Etapas para preenchimento de informações do evento
 
  Siga os passos a seguir para você como **Organizador**, conseguir estar gerenciando seu evento.
 
@@ -16,7 +16,7 @@ No sistema do Pharus é possível o organizador preencher diversos campos que se
 
 5. Ao acessar as configurações será possível visualizar a aba **"Identificação"**.
 
-6. Após selecionar a aba "Identificação" é possível o organizador visualizar os campos de preenchimento que posteriormente serão muito importantes.
+6. Após selecionar a aba "Identificação" é possível o organizador visualizar os campos de preenchimento das informações do seu evento.
 
 A seguir será possível visualizar uma demonstração dos campos disponíveis e as suas utilidades para o seu evento.
 
