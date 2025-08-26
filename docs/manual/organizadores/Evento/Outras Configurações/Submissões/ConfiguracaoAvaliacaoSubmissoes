@@ -1,0 +1,35 @@
+# Configurações das Submissões de Avaliações
+
+Dentro do Sistema do Pharus IFNMG, no módulo de **Avaliação** é possível o organizador configurar os modelos de avaliação, distribuição e fórmulas de verificação, como também é possível adicionar avaliadores, baremas, critérios, trabalhos e publicar os resultados.
+
+## Primeiras etapas
+
+![Tela de configurações](../../../images/telaDeConfiguracoesDeAvaliacaoDeSubmissao.png)
+
+ A sua primeira etapa ao visualizar a aba de configurações dentro desse módulo, é demarcas as respectivas caixas de seleção, porém vamos entender o que são cada uma delas.
+
+ - [ 1 ] Modelo de avaliação
+ *Aqui você irá definir que tipo de modelo você deseja para sua avaliação se ela será definida apenas pelas notas ou também por recomendação do avaliador.*
+
+![Manual do Modelo de Avaliação](../../../images/manualDoModeloDeAvaliacao.png)
+
+- [ 2 ] Modelo de distribuição dos trabalhos 
+*Você irá decidir se a distribuição dos trabalhos será feito de forma automática ou se isso será responsabilidade de entrega individual do avaliador.*
+
+- [ 3 ] Formulário de verificação
+*Permite avaliação quanto a forma do trabalho, como formatos e normas.*
+
+## Etapas restantes 
+Sendo concluído as primeiras etapas, podemos prosseguir com o preenchimento de campos e definição de prazos.
+
+- [ 4 ] Ínicio e término da avaliação de trabalhos
+*Definição de prazos para ínicio e término de trabalhos.*
+- [ 5 ] Data de Comhnicação
+*Data e hora que será comunicado o resultado das avaliações*
+- [ 6 ] Máximo de avaliadores por trabalho
+####
+- [ 7 ] Máximo de trabalhos por avaliador
+####
+- [ 8 ] Informações para o avaliador
+
+Após finalizar a configuração de todos esses campos, você pode clicar em **Salvar** e pronto, Finalizado! 
