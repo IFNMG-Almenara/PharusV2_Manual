@@ -21,7 +21,7 @@
 *Opção para definir se será enviado um e-mail de convite ou não para o Avaliador*.
 
 - [ 4 ] **Status do convite**
-*Caso a opção [ 3 ] esteja marcado como "não", essa opção irá demonstrar se o convite foi aceito, está como pendente ou recusado*.
+*Caso a opção [ 3 ] esteja marcado como "não", essa opção irá demonstrar se o convite foi aceito, está como pendente ou recusado, sendo definido manualmente pelo organizador do evento*.
 
 ## Opções de Listagem
 
