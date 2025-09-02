@@ -36,7 +36,7 @@ E o que precisamos fazer para criar um trabalho? Vamos aprender isso agora mesmo
 - [ 5 ] **Documento com ou sem identificação**.
 
 - [ 6 ] **Novo Autor**
-*Ao clicar em Novo Autor, abrirá uma tela onde você pode inserir nome e e-mail do autor do trabalho*.
+*Ao clicar em Novo Autor, abrirá uma tela onde você pode inserir nome, e-mail e instituição do autor do trabalho*.
 
 ## Aba de Resultados
  A aba de resultados do sistema Pharus IFNMG, é responsável pela publicação dos resultados dos trabalhos de submissão do sistema, seja para os autores ou para o site.
