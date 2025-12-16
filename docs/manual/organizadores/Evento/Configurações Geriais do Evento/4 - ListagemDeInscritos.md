@@ -19,9 +19,7 @@ Facilitando ao usuário responsável pelo evento o acompanhamento das informaç�
 
 6. A seguir, selecionando a aba "Inscritos" é possível o organizador visualizar a listagem dos Participantes que pertencem ao seu evento.
 
-Pronto! Você conseguirá ter acesso aos nomes, categorias e e-mail das pessoas inscritas no seu evento.
-
-![Botões](./../../images/BotoesDaListagem.png)
+Pronto! Você conseguirá ter acesso aos nomes, categorias e e-mail das pessoas inscritas no seu evento. Os botões no canto superior da listagem permitem exportar os dados ou adicionar um novo participante rapidamente.
 ## Exportação e Adição de novos participantes
 
 Nessa mesma tela é possível também a adição de novos participantes e a exportação dos dados dos participantes em formato PDF ou CSV, tornando mais prático para o organizador tanto exportar as informações quanto inserir participantes manualmente.

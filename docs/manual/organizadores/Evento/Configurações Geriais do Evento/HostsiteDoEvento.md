@@ -20,13 +20,13 @@ Dentro do sistema do Pharus, na aba de configurações do evento, você pode per
 
 7. Selecione uma *imagem* a sua escolha e insira nesses campos, assim que o conteúdo for enviado será exibido uma opção de recorte para se adequar a **proporção exigida 16:4.**
 
-![Inserindo Logomarca e Cabeçalho](../../../images/LogomarcaCabecalho.png)
+![Inserindo Logomarca e Cabeçalho](../../images/LogomarcaCabecalho.png)
 
 ## Configurações adicionais
 
 Com a sua logomarca e cabeçalho inseridos no seu evento, vamos agora para seleção de cor e configurações adicionais que é possível visualizar dentro dessa aba.
 
-![Conteúdo restante](../../../images/PaginaAdicionalCor)
+![Conteúdo restante](../../images/PaginaAdicionalCor.png)
 
 1. Em **"Selecione a cor desejada para o site"**, é possível você selecionar a cor que deseja para representar o seu evento.
 
@@ -36,6 +36,6 @@ Com a sua logomarca e cabeçalho inseridos no seu evento, vamos agora para sele�
 
 *Para visualizar as informações adicionais da qual você preencheu, você pode visualizá-las ao clicar no **Nome do Evento**, ao acessá-lo quando entrar em **"Meus eventos"**. Irá abrir informações mais detalhadas do seu evento, sendo uma delas a aba de **"Informações"** que terá as informações inseridas por você.*
 
-![Informações Adicionais](../../../images/informacoesAdicionaisVisualizacao.png)
+![Informações Adicionais](../../images/informacoesAdicionaisVisualizacao.png)
 
 Após ter feito tudo que deseja nessa tela, basta clicar em **"Salvar"** e pronto! As configurações foram concluídas.

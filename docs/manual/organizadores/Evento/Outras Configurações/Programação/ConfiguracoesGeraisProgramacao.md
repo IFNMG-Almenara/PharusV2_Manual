@@ -54,8 +54,8 @@ Assim que você adentrar a aba de **"Colaboradores"**, logo de início será mos
 Confira também os seguintes artigos para aprofundar seu conhecimento sobre a gestão e programação de eventos no sistema Pharus:
 
 - [Como criar um evento](../../CriarEvento.md)
-- [Adicionar organizadores ao evento](../../Configurações%20Geriais%20do%20Evento/AdicionarOrganizadoresEvento.md)
-- [Editar categorias de inscrição](../../Configurações%20Geriais%20do%20Evento/EditarCategoriaInscricao.md)
+- [Adicionar organizadores ao evento](../../Configurações%20Geriais%20do%20Evento/2%20-%20AdicionarOrganizadoresEvento.md)
+- [Editar categorias de inscrição](../../Configurações%20Geriais%20do%20Evento/1%20-%20EditarCategoriaInscricao.md)
 - [Configurações de avaliação](../../Outras%20Configurações/Avaliação/1%20-%20ConfiguraçõesdeAvaliação.md)
 - [Convidar avaliadores](../../Outras%20Configurações/Avaliação/2%20-%20Avaliadores/ConvidarAvaliadores.md)
 - [Adicionar área temática](../../Outras%20Configurações/Submissões/AdicionarAreaTematica.md)
