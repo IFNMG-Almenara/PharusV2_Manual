@@ -3,6 +3,7 @@
 No sistema Pharus, a configuração de submissões permite ao organizador definir prazos de envio dos trabalhos, prorrogações (adiantamento ou adiamento), número de autores por trabalho e limite de trabalhos por autor.
 
 ## Acessando as Configurações de Submissão
+![Configurar Submissões](../../../../organizadores/images/ConfigurarSubmissao.gif)
 1. Acesse "Meus Eventos" no menu superior esquerdo.
 2. Selecione o evento em que deseja adicionar uma categoria de submissão.
 3. No menu lateral esquerdo, clique em "Configurações".

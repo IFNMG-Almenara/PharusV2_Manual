@@ -4,6 +4,8 @@ No sistema Pharus, a configuração de verificação na pré-avaliação permite
 
 ### Passo a passo para configurar a verificação:
 
+![Pré-avaliação](../../../../images/Preaval.gif)
+
 1. **Acessar o evento**:
    - No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
    - Escolha o evento no qual deseja adicionar um barema e clique sobre ele.
