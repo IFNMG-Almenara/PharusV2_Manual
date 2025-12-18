@@ -4,6 +4,8 @@ No sistema Pharus, a funcionalidade de adicionar organizadores permite ao respon
 
 ## Passo a passo para adicionar organizadores
 
+![Adicionar Organizador](<../../images/addorganizador (2).gif>)
+
 1. **Acessar o evento**:
    - No canto superior esquerdo, clique em **MEUS EVENTOS** e, em seguida, em **ESTOU ORGANIZANDO**.
    - Escolha o evento ao qual deseja adicionar organizadores e clique sobre ele.
