@@ -12,9 +12,13 @@ O Pharus é uma plataforma de gestão de eventos acadêmicos, científicos, cult
 ## O que você encontra neste manual
 
 - Fluxos para criação e configuração de eventos.
+- Configuração e publicação do Site do Evento (hotsite).
 - Orientações para inscrições, submissões e acompanhamento.
 - Procedimentos de avaliação de trabalhos e uso de baremas.
 - Organização de programação, atividades e controle de participantes.
+- Catálogo consolidado de funcionalidades por categoria.
+
+Acesse: [Lista de funcionalidades do Pharus](/docs/manual/funcionalidades)
 
 ## Perfis de uso
 
