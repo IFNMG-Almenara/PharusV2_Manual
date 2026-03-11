@@ -60,10 +60,11 @@ export default function Home() {
         <section className={clsx('container', styles.section)}>
           <h2 className={styles.sectionTitle}>Visão geral</h2>
           <p>
-            O Pharus é um sistema para gerenciar eventos acadêmicos e
-            institucionais do início ao fim. Ele atende toda a jornada: criação
-            do evento, inscrições, submissão de trabalhos, avaliação,
-            publicação de programação e emissão de certificados.
+            O Pharus é um sistema digital para apoiar a organização e execução
+            de eventos acadêmicos, científicos, culturais e institucionais. A
+            plataforma cobre todo o ciclo do evento: criação, inscrições,
+            submissões, avaliação, programação, credenciamento e emissão de
+            certificados.
           </p>
         </section>
 
@@ -71,27 +72,47 @@ export default function Home() {
           <h2 className={styles.sectionTitle}>O que você pode fazer no sistema</h2>
           <div className={styles.infoGrid}>
             <article className={styles.infoCard}>
-              <h3>Organizar eventos</h3>
+              <h3>Inscrições e atividades</h3>
               <p>
-                Defina categorias, configure regras, monte programação e
-                acompanhe inscritos em tempo real.
+                Gerencie inscrições em eventos e atividades específicas com
+                controle de vagas, confirmação e cancelamento.
               </p>
             </article>
             <article className={styles.infoCard}>
-              <h3>Gerenciar submissão e avaliação</h3>
+              <h3>Submissões e avaliação científica</h3>
               <p>
-                Crie baremas, distribua trabalhos e mantenha o processo de
-                avaliação estruturado e rastreável.
+                Faça gestão completa de trabalhos com categorias temáticas,
+                distribuição para avaliadores e critérios personalizáveis.
               </p>
             </article>
             <article className={styles.infoCard}>
-              <h3>Acompanhar participantes</h3>
+              <h3>Programação, comunicação e certificados</h3>
               <p>
-                Facilite inscrições, comunicação e validação de certificados em
-                um único painel.
+                Monte sessões e horários, mantenha participantes informados e
+                emita certificados personalizados com agilidade.
               </p>
             </article>
           </div>
+        </section>
+
+        <section className={clsx('container', styles.section)}>
+          <h2 className={styles.sectionTitle}>Sobre o desenvolvimento</h2>
+          <p>
+            O sistema é desenvolvido e mantido pelo LUANDA - Laboratório de
+            Pesquisa, Desenvolvimento e Análise de Dados, vinculado ao Instituto
+            Federal do Norte de Minas Gerais - Campus Almenara, unindo ensino,
+            pesquisa e extensão em soluções reais para a comunidade acadêmica.
+          </p>
+        </section>
+
+        <section className={clsx('container', styles.section)}>
+          <h2 className={styles.sectionTitle}>Nossa missão</h2>
+          <p>
+            Democratizar a organização de eventos com uma plataforma acessível,
+            robusta e eficiente, valorizando a produção científica, facilitando
+            o trabalho dos organizadores e oferecendo uma experiência de
+            excelência para todos os envolvidos.
+          </p>
         </section>
 
         <section className={clsx('container', styles.section)}>
