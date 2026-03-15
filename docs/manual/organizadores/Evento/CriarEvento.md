@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+title: Criar Evento
+description: Guia completo para criação de eventos no sistema Pharus.
 ---
 
 # Criar Evento
@@ -14,78 +16,84 @@ O **PHARUS** é uma plataforma de gestão de eventos que simplifica a criação,
 
 Com esses pontos em mente, você estará pronto para criar um evento no **PHARUS** com sucesso.
 
-## Cadastrando um evento
+## Tipos de Evento
 
-Antes de cadastrar um evento, siga um processo organizado para garantir que todas as informações sejam inseridas corretamente. No cadastro, você poderá definir detalhes importantes, como o tipo de atividade, os palestrantes e a programação, que serão exibidos no site. Abaixo, explicamos como realizar esse cadastro de forma simples e rápida.
+Antes de iniciar o cadastro, é importante entender as diferenças entre os três tipos de evento disponíveis no **PHARUS**. Cada tipo possui características próprias que influenciam nas funcionalidades habilitadas para o seu evento.
 
-![Criar Evento](../images/criar_evento.gif)
-
-1. Na tela inicial, clique no botão "**ESTOU ORGANIZANDO**".
-2. Em seguida, selecione o botão azul no canto superior direito, onde está escrito "**Adicionar Evento**".
-
-### Preenchendo Tipo de Evento
-
-Após clicar em "Adicionar Evento", um menu será exibido com as opções de tipo de evento: **PALESTRA**, **ENCONTRO** e **CONGRESSO**. O organizador deve selecionar uma dessas opções para prosseguir com o cadastro do evento.
-
-![Tipo de Evento](../images/criar_evento2.gif)
+| Tipo | Descrição | Submissão e Apresentação de Trabalhos |
+|---|---|---|
+| **Congresso** | Geralmente duram vários dias e permitem que várias atividades aconteçam em paralelo. Oferecem fluxos de trabalho com revisão e edição de resumos e artigos. | Permite habilitar submissão e apresentação de trabalhos acadêmicos |
+| **Encontro** | Compostos por várias apresentações, palestras e debates. As atividades são apresentadas em sequência dentro de um mesmo espaço. | Não disponível |
+| **Palestra** | Atividade de apresentação única, com um ou mais palestrantes. | Não disponível |
 
 :::tip[Importante!]
->**Palestra**: Atividade de apresentação única, com um ou mais palestrantes.  
->**Encontro**: Composto por várias apresentações, palestras e debates, geralmente em sequência dentro de um mesmo espaço.  
->**Congresso**: Duram vários dias e permitem várias atividades em paralelo, com fluxos de trabalho para revisão/edição de resumos e artigos.  
+Apenas o tipo **Congresso** permite habilitar as funcionalidades de **submissão de trabalhos** e **apresentação de trabalhos**. Ao habilitar essas opções, áreas específicas para gerenciamento de submissões e apresentações acadêmicas serão disponibilizadas no painel do evento. Se o seu evento necessita dessas funcionalidades, selecione o tipo **Congresso**.
 :::
 
-Em seguida, preencha os seguintes campos:
+## Cadastrando um evento
 
-1. **Nome do Evento:** Insira o título completo do evento.
-2. **Sigla:** Informe a sigla ou abreviação do evento.
-3. **Carga Horária:** Defina a carga horária total do evento.
-4. **Início e Término:** Preencha as datas e horários de início e término do evento.
-5. **Período de Inscrições:** Determine o intervalo de tempo durante o qual as inscrições estarão abertas.
+Para cadastrar um evento, acesse o painel do **PHARUS** e clique no botão roxo **ADICIONAR EVENTO** no canto superior direito da tela "Meus Eventos". O sistema exibirá um formulário dividido em 4 etapas, identificadas por um menu lateral numerado (01 a 05).
 
-Indique se haverá submissão e apresentação de trabalhos, se aplicável ao seu evento. Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "**PRÓXIMO**", para avançar para a próxima etapa do cadastro.
+### Etapa 01 — Tipo de Evento e Informações Gerais
 
-### Outras Informações
+Nesta primeira etapa, você definirá o tipo do evento e as informações básicas.
 
-Nesta etapa, insira informações essenciais sobre o evento, como o local de realização e os dados do organizador. Essas informações são cruciais para garantir que os participantes saibam onde o evento ocorrerá e quem será o responsável pela organização.
+![Etapa 1 - Tipo de Evento e Informações Gerais](../images/criar_evento_etapa1.png)
 
-![Outras Informações](../images/criar_evento3.gif)
+1. **Tipo de Evento:** Selecione um dos três cards disponíveis: **Congresso**, **Encontro** ou **Palestra**. Consulte a seção [Tipos de Evento](#tipos-de-evento) acima para entender as diferenças.
+2. **Título do Evento:** Insira o nome completo do evento.
+3. **Sigla:** Informe a sigla ou abreviação do evento.
+4. **Carga Horária:** Defina a carga horária total do evento (em horas).
+5. **Link de acesso:** Defina o identificador único que será usado na URL do evento. O link deve ser único, sem espaços ou caracteres especiais. Exemplo: `semtec2026` ou `congresso2025`.
+6. **Início do evento / Término do evento:** Preencha as datas e horários de início e término do evento.
+7. **Início inscrições no evento / Término de inscrições no evento:** Determine o período durante o qual as inscrições estarão abertas.
+8. **Evento com submissão de trabalhos:** *(Apenas para Congresso)* Selecione **Sim** para habilitar a área de submissão de trabalhos acadêmicos.
+9. **Evento com apresentação de trabalhos:** *(Apenas para Congresso)* Selecione **Sim** para habilitar a área de apresentação de trabalhos.
 
-1. **Local do Evento:** Escreva onde o evento será realizado e selecione a **CIDADE** e o **ESTADO**.
-2. **Organizador do Evento:** Preencha o e-mail e o telefone do organizador para facilitar o contato.
-3. **Descrição do Evento:** Adicione uma descrição detalhada sobre o evento, destacando seu objetivo e atividades principais.
+Após preencher todos os campos, clique no botão roxo **PRÓXIMO** no canto inferior direito para avançar.
 
-Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "**PRÓXIMO**", para avançar para a próxima etapa do cadastro.
+### Etapa 02 — Outras Informações (Organização e Local)
 
-### Categorias de Inscrição
+Nesta etapa, insira informações sobre o local de realização, a organização responsável e uma descrição do evento.
 
-Para definir as categorias de inscrição, organize as informações de forma clara e precisa. Esse processo permite identificar os diferentes públicos e oferecer descrições adequadas, facilitando que cada participante encontre a opção mais adequada para sua inscrição.
+![Etapa 2 - Outras Informações](../images/criar_evento_etapa2.png)
 
-![Categorias de Inscrição](../images/criar_evento4.gif)
+1. **Local do Evento:** Escreva o nome do local onde o evento será realizado.
+2. **Endereço:** Informe o endereço completo do local.
+3. **Estado / Cidade:** Selecione o estado e a cidade nos menus suspensos.
+4. **Organização:** Informe o nome da instituição ou organização responsável pelo evento.
+5. **Email:** Preencha o e-mail de contato do organizador.
+6. **Telefone:** Informe o telefone de contato.
+7. **Redes Sociais:** Opcionalmente, adicione redes sociais do evento. Selecione a **Plataforma** no menu suspenso, insira a **URL** do perfil e clique em **ADICIONAR REDE SOCIAL** para incluir mais redes.
+8. **Descrição do Evento:** Utilize o editor de texto para adicionar uma descrição detalhada sobre o evento, destacando seu objetivo e atividades principais. O editor permite formatação de texto com negrito, itálico, listas, links e imagens.
 
-1. No campo "**CATEGORIA DE INSCRIÇÃO**", insira o nome da categoria do evento.
-2. Em "**DESCRIÇÃO**", forneça uma breve descrição do público-alvo para essa categoria.
-3. Caso exista apenas uma categoria, clique no botão roxo "**PRÓXIMO**" no canto inferior direito.
+Após preencher todos os campos, clique no botão roxo **PRÓXIMO** para avançar.
 
-![Adicionar Categoria](../images/criar_evento5.gif)
+### Etapa 03 — Categorias de Inscrição
 
-4. Para incluir outra categoria, clique no botão roxo "**ADIÇÃO**" abaixo dos campos "**CATEGORIA DE INSCRIÇÃO**" e "**DESCRIÇÃO**".
-5. Insira as informações da nova categoria nos campos disponibilizados.
+Nesta etapa, defina as categorias de inscrição do evento. As categorias permitem separar os participantes por características específicas, como: Professores, Estudantes de Nível Médio, Profissionais, etc.
 
-Após preencher todos os campos, clique no botão roxo no canto inferior direito, onde está escrito "**PRÓXIMO**", para avançar para a próxima etapa do cadastro.
+![Etapa 3 - Categorias de Inscrição](../images/criar_evento_etapa3.png)
 
-### Site do Evento
+1. No campo **Categoria de Inscrição**, insira o nome da categoria (ex: "Estudante", "Professor", "Profissional").
+2. No campo **Descrição**, forneça uma breve descrição do público-alvo dessa categoria.
+3. Para adicionar mais categorias, clique no botão roxo com o ícone **+** abaixo dos campos.
+4. Para remover uma categoria, clique no botão vermelho com o ícone de **lixeira** ao lado dela.
 
-Para personalizar o visual do seu evento e concluir a configuração, siga os passos abaixo:
+Após definir todas as categorias necessárias, clique no botão roxo **PRÓXIMO** para avançar.
 
-![HOSTSITE](../images/criar_evento6.gif)
+### Etapa 04 — Hotsite (Site do Evento)
 
-1. Carregue a imagem do cabeçalho do site no campo "**IMAGEM PARA CABEÇALHO DO SITE**".
-2. Em "**LOGOMARCA DO EVENTO**", faça o upload da logo do evento.
-3. Escolha a cor do site clicando no botão "**SELECIONE A COR DESEJADA PARA O SITE**".
-4. No botão "**PUBLICADO**", defina se o evento será publicado ou não.
+Nesta etapa, personalize o visual do site do evento e finalize a criação.
 
-Para finalizar a criação do evento, clique no botão roxo no canto inferior direito onde está escrito "**FINALIZAR**".
+![Etapa 4 - Hotsite](../images/criar_evento_etapa4.png)
+
+1. **Imagem para cabeçalho do site:** Faça o upload de uma imagem para o cabeçalho. A imagem deve ter proporção **16:4** (ex: 1360x340 pixels) e tamanho máximo de **2MB**. Arraste a imagem para a área indicada ou clique em **navegar** para selecionar o arquivo.
+2. **Logomarca do Evento:** Faça o upload da logomarca do evento. Arraste a imagem ou clique em **navegar**.
+3. **Selecione a cor desejada para o site:** Clique no seletor de cores para escolher a cor tema do site do evento. Você pode inserir o código hexadecimal diretamente (ex: `#0A8DE3`).
+4. **Publicado:** Marque esta opção se deseja que o evento fique visível e acessível publicamente logo após a criação.
+
+Para finalizar a criação do evento, clique no botão roxo **FINALIZAR** no canto inferior direito. O sistema criará o evento e você será redirecionado para o painel de gerenciamento.
 
 ## Links Relacionados
 
